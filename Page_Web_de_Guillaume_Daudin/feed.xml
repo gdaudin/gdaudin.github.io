@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C8C50F93-6420-4A01-B8E3-27FE017869B8</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-11-22T20:06:12+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:597E0A13-7902-434A-9B74-AB5B029F152E</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">597E0A13-7902-434A-9B74-AB5B029F152E</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2019-11-22T20:06:12.001+01:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BB604549-7AC0-4387-A811-D8D2B4018DEC</id>
+  <title>Curriculum Vitae</title>
+  <title xmlns="urn:iweb:">Curriculum Vitae</title>
+  <in-navbar xmlns="urn:iweb:">BB604549-7AC0-4387-A811-D8D2B4018DEC</in-navbar>
+  <link rel="alternate" href="Curriculum_Vitae.html"/>
+  <updated>2019-11-22T20:06:12.002+01:00</updated>
+  <content>Curriculum Vitae</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0C209908-F1A1-478F-817E-EB59BFC89120</id>
+  <title>Databases</title>
+  <title xmlns="urn:iweb:">Databases</title>
+  <in-navbar xmlns="urn:iweb:">0C209908-F1A1-478F-817E-EB59BFC89120</in-navbar>
+  <link rel="alternate" href="Databases.html"/>
+  <updated>2019-11-22T20:06:12.003+01:00</updated>
+  <content>Databases</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:69D2F487-CDBD-48AA-95A6-DC2C4D60297E</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">69D2F487-CDBD-48AA-95A6-DC2C4D60297E</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2019-11-22T20:06:12.004+01:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DDD2FA6E-C689-4CC7-BD77-FDAF78D39CCF</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">DDD2FA6E-C689-4CC7-BD77-FDAF78D39CCF</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2019-11-22T20:06:12.005+01:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:28939673-835A-4078-8DD5-6D931489857F</id>
+  <title>Research Papers</title>
+  <title xmlns="urn:iweb:">Research Papers</title>
+  <in-navbar xmlns="urn:iweb:">28939673-835A-4078-8DD5-6D931489857F</in-navbar>
+  <link rel="alternate" href="Research_Papers.html"/>
+  <updated>2019-11-22T20:06:12.006+01:00</updated>
+  <content>Research Papers</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8567E659-AD2E-4E5C-91A2-380A411169EF</id>
+  <title>Seminars and Conferences</title>
+  <title xmlns="urn:iweb:">Seminars and Conferences</title>
+  <in-navbar xmlns="urn:iweb:">8567E659-AD2E-4E5C-91A2-380A411169EF</in-navbar>
+  <link rel="alternate" href="Seminars_and_Conferences.html"/>
+  <updated>2019-11-22T20:06:12.007+01:00</updated>
+  <content>Seminars and Conferences</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:66D7D7E8-FBF9-47CC-88AA-1A5746997869</id>
+  <title>In the media</title>
+  <title xmlns="urn:iweb:">In the media</title>
+  <in-navbar xmlns="urn:iweb:">66D7D7E8-FBF9-47CC-88AA-1A5746997869</in-navbar>
+  <link rel="alternate" href="In_the_media.html"/>
+  <updated>2019-11-22T20:06:12.008+01:00</updated>
+  <content>In the media</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2BA3530B-088A-47E0-9FBA-25D8A93AE800</id>
+  <title>Teaching documents</title>
+  <title xmlns="urn:iweb:">Teaching documents</title>
+  <in-navbar xmlns="urn:iweb:">2BA3530B-088A-47E0-9FBA-25D8A93AE800</in-navbar>
+  <link rel="alternate" href="Teaching_documents.html"/>
+  <updated>2019-11-22T20:06:12.009+01:00</updated>
+  <content>Teaching documents</content>
+ </entry>
+</feed>
