@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Databases"
-permalink: https://https://gdaudin.github.io/Databases
+permalink: Databases
 --- 
 
 Please do not hesitate to contact me to get help in using these databases (in other words: motivate me by showing your interest, and I will write a documentation. Before that, the information given here is provisional)  

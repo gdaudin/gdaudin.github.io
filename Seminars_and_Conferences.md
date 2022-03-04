@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Seminars and Conferences"
-permalink: https://https://gdaudin.github.io/Seminars_and_Conferences
+permalink: Seminars_and_Conferences
 --- 
 
 # 2021  

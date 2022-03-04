@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research papers"
-permalink: https://https://gdaudin.github.io/Research_Papers
+permalink: Research_Papers
 --- 
 Published working papers  
 

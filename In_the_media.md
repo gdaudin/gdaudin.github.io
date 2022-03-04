@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "In the Media"
-permalink: https://https://gdaudin.github.io/In_the_media
+permalink: In_the_media
 --- 
   
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-permalink: https://https://gdaudin.github.io/Teaching
+permalink: Teaching
 --- 
 A presentation of the «classe inversée» for the first-year students (in French) : [2016 - 06 Présentation CIP (avec réponses 2015, 2016 et 2017).pdf](Teaching_files/2016%20-%2006%20Pre%CC%81sentation%20CIP%20%28avec%20re%CC%81ponses%202015,%202016%20et%202017%29.pdf "Teaching_files/2016 - 06 Présentation CIP (avec réponses 2015, 2016 et 2017).pdf") and the [video](https://www.youtube.com/watch?v=9J5rQwKjJZk&feature=youtu.be "https://www.youtube.com/watch?v=9J5rQwKjJZk&feature=youtu.be"). The [Sondages Piazza, Manuel et Classe inversée.pdf](Teaching_files/Sondages%20Piazza,%20Manuel%20et%20Classe%20inverse%CC%81e.pdf "Teaching_files/Sondages Piazza, Manuel et Classe inversée.pdf"), [2017 Sondages Manuel, Piazza, classe inversée.pdf](Teaching_files/2017%20Sondages%20Manuel,%20Piazza,%20classe%20inverse%CC%81e.pdf "Teaching_files/2017 Sondages Manuel, Piazza, classe inversée.pdf").  
 

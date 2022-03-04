@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-permalink: https://https://gdaudin.github.io/Curriculum_Vitae
+permalink: Curriculum_Vitae
 --- 
 
 # Academic Positions  

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-permalink: https://https://gdaudin.github.io/Publications
+permalink: Publications
 --- 
 
 # Book  
