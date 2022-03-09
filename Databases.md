@@ -34,30 +34,20 @@ More data are available upon request.
 
   
 
-Slave trade profits  
+# Slave trade profits  
 
 « Profitability of slave and long distance trading in context: the case of eighteenth century France », Journal of Economic History, vol. 64, n°1, 2004. [Draft (pdf)](Databases_files/FrenchProfits.pdf "Databases_files/FrenchProfits.pdf") [Data (.zip/.xls)](Databases_files/FrenchLongDistanceTradeProfits18thcentury.zip "Databases_files/FrenchLongDistanceTradeProfits18thcentury.zip")  
 
   
 
-French domestic trade  
+# French domestic trade  
 
-“Domestic Trade and Market Size in Late 18th century France”, September 2010 in Journal of Economic History ([Web Version.pdf](Databases_files/DomesticTradeandMarketSizeNovember2009_Web%20Version.pdf "Databases_files/DomesticTradeandMarketSizeNovember2009_Web Version.pdf")) [BDD\_Domestic trade and market size.fp7.zip (File Maker Pro)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.fp7.zip "Databases_files/BDD_Domestic trade and market size.fp7.zip") [BDD\_Domestic trade and market size.csv.zip (csv file)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") [BDD\_Domestic trade and market size.dta.zip (Stata)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.dta.zip "Databases_files/BDD_Domestic trade and market size.dta.zip") [Domestic trade and market size.do (Stata programming)](Databases_files/Domestic%20trade%20and%20market%20size.do "Databases_files/Domestic trade and market size.do") [Bilateral transport costs.zip](Databases_files/Bilateral%20transport%20costs.zip "Databases_files/Bilateral transport costs.zip")  
+“Domestic Trade and Market Size in Late 18th century France”, September 2010 in Journal of Economic History ([Web Version.pdf](Databases_files/DomesticTradeandMarketSizeNovember2009_Web%20Version.pdf "Databases_files/DomesticTradeandMarketSizeNovember2009_Web Version.pdf")) [BDD\_Domestic trade and market size.fp7.zip (File Maker Pro)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.fp7.zip "Databases_files/BDD_Domestic trade and market size.fp7.zip") [BDD\_Domestic trade and market size.csv.zip (csv file)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") [BDD\_Domestic trade and market size.dta.zip (Stata)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.dta.zip "Databases_files/BDD_Domestic trade and market size.dta.zip") [Domestic trade and market size.do (Stata programming)](Databases_files/Domestic%20trade%20and%20market%20size.do "Databases_files/Domestic trade and market size.do") [Bilateral transport costs.zip](Databases_files/Bilateral%20transport%20costs.zip "Databases_files/Bilateral transport costs.zip"). Also published on Zenodo [doi:10.5281/zenodo.6341705](https://doi.org10.5281/zenodo.6341705)
 
   
 
-French external trade  
+# French external trade  
+
+See the Toflit18 [datascape](http://toflit18.medialab.sciences-po.fr/#/home)
 
 [Retranscription](Databases_files/N%C2%B031-Espagne_1788%20et%20toiles%20pour%20l%27Afrique%201784.pdf "Databases_files/N°31-Espagne_1788 et toiles pour l'Afrique 1784.pdf") of the «Observations sur les deux états remis par le Directeur de la Balance du Commerce. L’un concernant notre commerce avec l’Espagne en 1782, l’autre contenant le détail des toiles des Indes importées à l’étranger pour être réexportées pour le commerce d’Afrique en l’année 1784.», AN, F12/13101, n° 31 (done by Esther Benbassat (OFCE))
-
-  
-
-  
-
-  
-
-  
-
-![](Databases_files/LayeredPaper_04.jpg)
-
-[![Créé sur un Mac](Databases_files/mwmac_white.png)](http://www.apple.com/fr/mac "http://www.apple.com/fr/mac")
