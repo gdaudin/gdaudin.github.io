@@ -130,8 +130,6 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2013-2016: Member of the CEVU in University Paris-Dauphine  
 
-  
-
 ## Search Commitees  
 
 2018: Member of the search comittee for Professeur des Universités in History, Université Paris-I  
@@ -226,15 +224,18 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Paper Series, Economic Bulletin, Economic History Review, Economic Journal, Économie et Prévision, Économie Internationale, European Review of Economic History, Explorations in Economic History, Histoire et Mesure,  Histoire, Économie et Société, Historical Methods, Israel Science Foundation, Journal of Economic Geography, Journal of Economic History, Journal of International Economics, Oxford Bulletin of Economics and Statistics, Revue d’économie politique, Revue de l’OFCE, Revue des Sciences de Gestion, Revue Économique, Review of World Economics, TSEG/Low Countries Journal of Social and Ecomomic History, Scandinavian Review of Economic History, Socio-Economic Review  
 
+## Expertises
+2021-now : Member of the scientific committee of the [Maison Européenne des Sciences de l’Homme et de l a Société](https://www.meshs.fr) at Lille
+
 2019 Expert pour l’Aides aux manifestations scientifiques (AMS) de l’institut des Amériques  
 
 2017 Rapporteur candidature EHESS    
 
 2013  PEPS expert, CNRS and Université de Bordeaux,  
 
-2010-12  Expert ANR  
+2010-2012  Expert ANR  
 
-2011-2012  SHS1 Comitee member for the Agence Nationale de la Recherche (ANR),    
+2011-2012  SHS1 Committee member for the Agence Nationale de la Recherche (ANR) 
 
 # Supervision  
 
@@ -256,7 +257,7 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
   
 
-## Thesis commitees  
+## Thesis committees  
 
 2020-now : Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
 
@@ -294,15 +295,12 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
   
 
-## HDR commitee  
+## HDR committees  
 
 2018: Elise Huillery, Human Capital, Psychology, and Poverty. Sous la direction de Philippe de Vreyer  
 
 2012: Pierre Gervais, De la discontinuité historique : économie, politique et temporalités, États-Unis-France, xviiie-xixe. Sous la direction de Dominique Margairaz  
 
-  
-
-  
 
 # Various  
 
@@ -314,71 +312,37 @@ Since 2007 : With Loïc Charles, organization of an international network of res
 
 # Education  
 
-  
-
 2008  
-
 4th à l’Agrégation du supérieur en économie (nommé à Lille 1)  
 
-  
-
 1996-2001  
-
 Université Paris-I, Panthéon-Sorbonne / London School of Economics  
-
 PhD in Economics  
-
 Le rôle du commerce dans la croissance : une réflexion à partir de la France du XVIIIe siècle  
-
 Surpervisors: Antoine d'Autume (Paris-I) and Nicholas Crafts (LSE)  
-
 Granted with full honors and a publication subvention  
-
 Received the annual thesis price of the Association Française de Science Economique in 2001  
 
- 
-
 1995-1996  
-
 Université Paris-I, Panthéon-Sorbonne  
-
 DEA "Analyse Macroéconomique, Modélisation, et Conjoncture”  
-
 Equivalent to a high-level M.S. in Economics with honors  
-
 Dissertation title: Endogenous Growth and Financial Markets  
 
- 
-
 1993-1996  
-
 École Nationale de la Statistique et de l'Administration Économique  
-
 Statistic and Economic Administration National School  
-
 Statisticien-Economiste  
-
-Equivalent to a M.S. in Statistics and Economics  
-
- 
+Equivalent to a M.S. in Statistics and Economics
 
 1993-1995  
-
 Université Paris-I, Panthéon-Sorbonne  
-
 BSc in History  
 
- 
-
 1991-1993  
-
 Lycée Janson de Sailly  
-
 Hypokhâgne et khâgne S  
-
 Undergraduated classes in Mathematics and Social Sciences to prepare for Grandes Écoles's competitive exams  
-
-  
 
 # Non-academic positions  
 
