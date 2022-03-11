@@ -6,6 +6,13 @@ permalink: Seminars_and_Conferences
 
 # 2022
 
+
+March
+[Séminaire Cournot]([https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
+Beta, Université de Strasbourg
+The rationality of early modern merchant bookkeeping: a quantitative approach
+
+
 January
 [Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](programm_forschungskolloquium_wintersemester_2021_22.pdf)
 Berlin
