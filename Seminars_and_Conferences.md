@@ -8,6 +8,7 @@ permalink: Seminars_and_Conferences
 
 
 March
+
 [Séminaire Cournot](https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
 Beta, Université de Strasbourg
 The rationality of early modern merchant bookkeeping: a quantitative approach (with Pierre Gervais)
@@ -19,6 +20,7 @@ Not “easy to win”: The British war on French trade, 1744-1815 (with Elisa-Ma
 How Can We Calculate the Profits of the Slave Trade?
 
 January
+
 [Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](programm_forschungskolloquium_wintersemester_2021_22.pdf)
 Berlin
 The Rationality of Early Modern Merchant Bookkeeping: A Quantitative Approach
