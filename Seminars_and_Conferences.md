@@ -8,10 +8,15 @@ permalink: Seminars_and_Conferences
 
 
 March
-[Séminaire Cournot]([https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
+[Séminaire Cournot](https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
 Beta, Université de Strasbourg
-The rationality of early modern merchant bookkeeping: a quantitative approach
+The rationality of early modern merchant bookkeeping: a quantitative approach (with Pierre Gervais)
 
+[Economic History Seminar at PSE](https://www.parisschoolofeconomics.eu/fr/recherche-academique/vie-academique/seminaires/histoire-economique/), Paris
+Not “easy to win”: The British war on French trade, 1744-1815 (with Elisa-Maria Tirindelli)
+
+[Maritime Trade in Medieval and Early Modern Times Lecture Series](Zaugg Aushang Vorträge.pdf) organized by Prof. Zaugg, Zürich
+How Can We Calculate the Profits of the Slave Trade?
 
 January
 [Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](programm_forschungskolloquium_wintersemester_2021_22.pdf)
