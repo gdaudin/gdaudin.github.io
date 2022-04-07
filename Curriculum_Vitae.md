@@ -297,6 +297,10 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
 ## HDR committees  
 
+2022: Guillaume Bazot, The consequences of financial liberalization on the cost of capital :
+A Macro-historical perspective. Sous la direction de Claude Diebolt.
+
+
 2018: Elise Huillery, Human Capital, Psychology, and Poverty. Sous la direction de Philippe de Vreyer  
 
 2012: Pierre Gervais, De la discontinuité historique : économie, politique et temporalités, États-Unis-France, xviiie-xixe. Sous la direction de Dominique Margairaz  
