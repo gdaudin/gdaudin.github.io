@@ -227,6 +227,8 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 ## Expertises
 2021-now : Member of the scientific committee of the [Maison Européenne des Sciences de l’Homme et de l a Société](https://www.meshs.fr) at Lille
 
+2020 Expert for the Turkish Academy of Sciences
+
 2019 Expert pour l’Aides aux manifestations scientifiques (AMS) de l’institut des Amériques  
 
 2017 Rapporteur candidature EHESS    

@@ -3,9 +3,10 @@ layout: page
 title: "Research papers"
 permalink: Research_Papers
 --- 
-Published working papers  
 
-  
+Working papers
+
+Charles, L., G. Daudin, S. Marzagalli, "In the epicenter of the storm? The effects of the revolution and warfare on the French Economy, 1789-1815", [Woking Paper OFCE n°2022-06](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf)
 
 Daudin, G., J. Héricourt, L. Patureau, "International Transport costs: New Findings from modeling additive costs", Document de travail (Docweb) - CEPREMAP, , no. 2203, 2022 ([link)](http://www.cepremap.fr/depot/docweb/docweb2203.pdf "pdf")  
 
@@ -29,7 +30,7 @@ Daudin, G., Corlay, G., Dupraz, S., Labonne, C., Muller, A., & Antonin, C. (2016
 
 «Cross-checking the Sound database with the French Balance du commerce » OFCE Working Papers (2016 #3) with Loïc Charles ([link)](http://www.ofce.fr/pdf/dtravail/WP2016-03.pdf "http://www.ofce.fr/pdf/dtravail/WP2016-03.pdf")  
 
-  
+Daudin, Guillaume, Franck, Raphaël, Rapoport, Hillel: The Cultural Diffusion of the Fertility Transition: Evidence from Internal Migration in 19th Century France, CESifo Working Paper No. 5866, April 2016
 
 «Heterogeneity and the distance puzzle» OFCE Working Papers (2012 #17) with Elizaveta Archanskaia ([link](http://www.ofce.sciences-po.fr/pdf/dtravail/WP2012-17.pdf "http://www.ofce.sciences-po.fr/pdf/dtravail/WP2012-17.pdf"))  
 
@@ -71,12 +72,7 @@ Daudin, G., Corlay, G., Dupraz, S., Labonne, C., Muller, A., & Antonin, C. (2016
 
   
 
-Other  
-
-  
-
-Daudin, Guillaume, Franck, Raphaël, Rapoport, Hillel: The Cultural Diffusion of the Fertility Transition: Evidence from Internal Migration in 19th Century France, CESifo Working Paper No. 5866, April 2016 \[Download\] \[Abstract\]  
-
+# Other  
   
 
 «The cultural diffusion of the fertility transition: internal migrations in 19th century France», with Raphaël Franck and Hillel Rapoport. [Fertility Convergence\_travail v29.pdf](Research_Papers_files/Fertility%20Convergence_travail%20v29.pdf "Research_Papers_files/Fertility Convergence_travail v29.pdf")  
@@ -91,24 +87,12 @@ Daudin, Guillaume, Franck, Raphaël, Rapoport, Hillel: The Cultural Diffusion of
 
   
 
-“A Model of Smithian Growth and intercontinental trade profits in Early Modern Europe”  
-
-[Draft.pdf](Research_Papers_files/SmithianGrowthCourtTravail.pdf "Research_Papers_files/SmithianGrowthCourtTravail.pdf")  
-
-  
+“A Model of Smithian Growth and intercontinental trade profits in Early Modern Europe”  [Draft.pdf](Research_Papers_files/SmithianGrowthCourtTravail.pdf "Research_Papers_files/SmithianGrowthCourtTravail.pdf")  
 
 “A History of Distance: 1828-2000” (With Béatrice Dédinger)  
 
-  
-
 “Paying Transaction Costs: Merchant Institutions in Contex” [Draft (.doc)](http://web.mac.com/gdaudin/iWeb/6EE7537F-496B-4F17-8AE0-EE0D22EF64C1/Research%20papers_files/Paying%20transaction%20costs.doc "http://web.mac.com/gdaudin/iWeb/6EE7537F-496B-4F17-8AE0-EE0D22EF64C1/Research papers_files/Paying transaction costs.doc")  
-
-  
 
 “Wine Prices: 1970-2007”  
 
- 
-
 Un modèle quasi-comptable pour la Guyane : RDTG, (Internship report INSEE-Guyane in 1995). [RapportdestageGuyane.pdf](Research_Papers_files/RapportdestageGuyane.pdf "Research_Papers_files/RapportdestageGuyane.pdf")
-
-![](Research_Papers_files/LayeredPaper_04.jpg)
