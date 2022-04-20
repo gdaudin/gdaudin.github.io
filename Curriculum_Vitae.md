@@ -6,44 +6,36 @@ permalink: Curriculum_Vitae
 
 # Academic Positions  
 
+Since Septembre 2021\
+Institute for European Global Studies (University of Basel)\
+Associated Researcher
+
 Since September 2015  
 1st Class Professor in Economics  
-
-  
 
 Since September 2012  
 Université de Dauphine  
 Développement, Institutions et Mondialisation (DIAL)-UMR 225  
 Laboratoire d’économie de Dauphine (LEDa)  
 
-  
-
 Since April 2017  
 [Centre de Recherche en Économie de Sciences Po (OFCE)](http://www.ofce.sciences-po.fr/ "http://www.ofce.sciences-po.fr/")  
 Sciences Po (Paris)  
 Affiliate researcher  
 
-  
-
 August 2017 - July 2019  
 Banque de France, service du Diagnostic conjoncturel de la direction de la conjoncture et des prévisons macroéconomique (Direction générale des Statistiques, des Études et de l’International)  
 Consultant  
-
-  
 
 September 2008 - April 2017  
 [Centre de Recherche en Économie de Sciences Po (OFCE)](http://www.ofce.sciences-po.fr/ "http://www.ofce.sciences-po.fr/")  
 Sciences Po (Paris)  
 Associate researcher  
 
-  
-
 September 2008-August 2012  
 Université Lille-I  
 Professor in Economics  
 Member of EQUIPPE (EA 4018)  
-
-  
 
 2002 to August 2008  
 [Observatoire Français des Conjonctures Économiques (OFCE)](http://www.ofce.sciences-po.fr/ "http://www.ofce.sciences-po.fr/")  
