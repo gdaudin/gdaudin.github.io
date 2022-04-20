@@ -16,7 +16,7 @@ Pour acheter une version papier de la seconde édition (2011) : [lulu.com](http:
 
 Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography* (forthcoming)
 
-Loïc Charles, Guillaume Daudin, Paul Girard, Guillaume Plique « Exploring the Transformation of French and European Trade and Economy in the Long Eighteenth Century (1713-1823) : the TOFLIT18 Project », *Historical Methods: A Journal of Quantitative and Interdisciplinary History* (forthcoming)
+Loïc Charles, Guillaume Daudin, Paul Girard, Guillaume Plique « Exploring the Transformation of French and European Trade and Economy in the Long Eighteenth Century (1713-1823) : the TOFLIT18 Project », *Historical Methods: A Journal of Quantitative and Interdisciplinary History* (2022) [DOI: 10.1080/01615440.2022.2032522](https://doi.org/10.1080/01615440.2022.2032522)
 
 « How important was the slavery system to Europe ? », *Slavery & Abolition* (2021), n°42, 1, p.151-157. See [https://doi.org/10.1080/0144039X.2020.1860469](https://doi.org/10.1080/0144039X.2020.1860469 "https://doi.org/10.1080/0144039X.2020.1860469")
 
