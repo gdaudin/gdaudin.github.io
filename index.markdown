@@ -12,9 +12,14 @@ You will find here information about what I do in economics and economic history
 
 Guillaume Daudin
 
-Professeur des Universités in economics - Université de Dauphine
+Professeur des Universités in economics - Université Paris Dauphine-PSL
 [DIAL](https://dial.ird.fr/)-[LEDa (UMR CNRS 8007, UMR IRD 260)](https://leda.dauphine.fr/)
+
 Chercheur affilié - Sciences Po (OFCE)
+
+Associated researcher - University of Basel (Institute for European Global Studies)
+
+
 
 Postal Address: 
 Bureau P120 - LEDa-DIAL
