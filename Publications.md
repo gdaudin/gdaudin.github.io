@@ -14,7 +14,7 @@ Pour acheter une version papier de la seconde édition (2011) : [lulu.com](http:
 
 # Papers in refereed journals  
 
-Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography* (forthcoming)
+Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography* (2022) [DOI:10.1093/jeg/lbac007](https://doi.org/10.1093/jeg/lbac007)
 
 Loïc Charles, Guillaume Daudin, Paul Girard, Guillaume Plique « Exploring the Transformation of French and European Trade and Economy in the Long Eighteenth Century (1713-1823) : the TOFLIT18 Project », *Historical Methods: A Journal of Quantitative and Interdisciplinary History* (2022) [DOI: 10.1080/01615440.2022.2032522](https://doi.org/10.1080/01615440.2022.2032522)
 
@@ -135,7 +135,11 @@ Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](htt
 
 « Le commerce dans la croissance : le cas de la France au XVIIIe siècle », *Les Échos*, 24/09/2001. [Draft (pdf)](Publications_files/articleEchos.pdf "Publications_files/articleEchos.pdf")  
 
-# Other publications  
+# Other publications
+
+
+Faubert, Violaine, Guillaume Daudin, "Analysing cost-push inflation using world input-output tables", VoxEU.org, May 13th 2022, [link](https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables)   
+  
 Marzagalli, Silvia, Asselin, Cécile, Bouju, Alain, Charles, Loïc, Daudin, Guillaume, Geoffroy, Géraldine, Girard, Paul, Gourlet, Pauline, Mazoyer, Béatrice, de Mourat, Robin, Ooghe-Tabanou, Benjamin, Plique, Guillaume, Plumejeaud, Christine, Pourchasse, Pierrick, Sauzeau, Thierry, Théro, Héloïse, & Zoffoli, Maxime. (2021). Commerce multi-échelles autour du port de La Rochelle au XVIIIe siècle (1.0.1). Zenodo. [https://doi.org/10.5281/zenodo.5717883](https://doi.org/10.5281/zenodo.5717883 "https://doi.org/10.5281/zenodo.5717883")
 
 «Une histoire du désajustement franco-allemand (1995-2011)», avec Hadrien Camatte, *Blog de l’OFCE*, [09/10/2020](https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/ "https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/")  

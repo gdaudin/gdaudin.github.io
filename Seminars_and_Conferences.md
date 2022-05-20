@@ -7,6 +7,12 @@ permalink: Seminars_and_Conferences
 # 2022
 
 
+May
+
+Working Lunch
+Institute for European Global Studies, Basel University
+[Eighteenth-Century Slave Trade Profits](2022_Bâle.pdf)
+
 March
 
 [Séminaire Cournot](https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
