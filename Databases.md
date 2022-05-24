@@ -48,6 +48,8 @@ More data are available upon request.
 
 # French external trade  
 
+TOFLIT18 through on Zenodo (datapackage format) [https://doi.org/10.5281/zenodo.6573396](https://doi.org/10.5281/zenodo.6573396)
+
 See the Toflit18 [datascape](http://toflit18.medialab.sciences-po.fr/#/home)
 
 [Retranscription](Databases_files/N%C2%B031-Espagne_1788%20et%20toiles%20pour%20l%27Afrique%201784.pdf "Databases_files/N°31-Espagne_1788 et toiles pour l'Afrique 1784.pdf") of the «Observations sur les deux états remis par le Directeur de la Balance du Commerce. L’un concernant notre commerce avec l’Espagne en 1782, l’autre contenant le détail des toiles des Indes importées à l’étranger pour être réexportées pour le commerce d’Afrique en l’année 1784.», AN, F12/13101, n° 31 (done by Esther Benbassat (OFCE))
