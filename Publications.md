@@ -10,7 +10,7 @@ Commerce et prospérité : la France au XVIIIe siècle, Presses Universitaires d
 
 Texte de la seconde édition (580 p.), 2011 : [Daudin - Commerce et Prospérité 2e édition - 2011.pdf](Publications_files/DaudinThesis2ndEdition.pdf "DaudinThesis2ndEdition.pdf")  
 
-Pour acheter une version papier de la seconde édition (2011) : [lulu.com](http://www.lulu.com/product/couverture-souple/commerce-et-prosp%C3%A9rit%C3%A9-la-france-au-xviiie-si%C3%A8cle---2e-%C3%A9dition/18724477 "http://www.lulu.com/product/couverture-souple/commerce-et-prospérité-la-france-au-xviiie-siècle---2e-édition/18724477")  
+Pour acheter une version papier de la seconde édition (2011) : [lulu.com](https://www.lulu.com/fr/shop/guillaume-daudin/commerce-et-prosp%C3%A9rit%C3%A9-la-france-au-xviiie-si%C3%A8cle-2e-%C3%A9dition/paperback/product-18nv7k2w.html?q=guillaume+daudin&page=1&pageSize=4)  
 
 # Papers in refereed journals  
 
