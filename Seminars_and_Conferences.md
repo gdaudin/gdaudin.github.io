@@ -7,6 +7,11 @@ permalink: Seminars_and_Conferences
 # 2022
 
 
+June
+2022 European Historical Economics Society Conference
+Groningen
+The British war on French trade, 1716-1822 (with Elisa-Maria Tirindelli)
+
 May
 
 Working Lunch
