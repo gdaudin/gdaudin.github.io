@@ -103,9 +103,11 @@ Avant-propos de Robert C. Allen, *Introduction à l’histoire économique mondi
 
 # Non-refereed journals  
 
-Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](https://www.lhistoire.fr/les-nouveaux-chantiers-de-lhistoire-%C3%A9conomique/et-la-france-se-sp%C3%A9cialisa-dans-le-luxe)», *L’Histoire*, n°493, Mars 493  
+Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](https://www.lhistoire.fr/les-nouveaux-chantiers-de-lhistoire-%C3%A9conomique/et-la-france-se-sp%C3%A9cialisa-dans-le-luxe)», *L’Histoire*, n°493, Mars 2022
 
-«Back to TOFLIT18 / TOFLIT18 le retour», *Dialogue*, n°52, Avril 2019  
+Guillaume Daudin and Edouard Pignède «French Trade in the 18th century: Inflation and Revolution», *Dialogue*, n°62, Septembre 2021 [https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf)
+
+«Back to TOFLIT18 / TOFLIT18 le retour», *Dialogue*, n°53, Avril 2019  [https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-53.pdf](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-53.pdf)
 
 «La collecte du chiffre commercial au XVIIIe siècle» with Alexandre Aubourg and Loïc Charles, *Cahiers d’histoire des Douanes et des Droits Indirects*, n°59, 2nd semestre 2016 [link](http://asso-ahad.blogspot.fr/2016/08/cahier-numero-59.html "http://asso-ahad.blogspot.fr/2016/08/cahier-numero-59.html")  
 
