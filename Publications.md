@@ -113,6 +113,8 @@ Guillaume Daudin, «Coming back to TOFLIT18 / TOFLIT18 le retour», *Dialogue*, 
 
 «Analyse historique du commerce extérieur français : le projet TOFLIT18» / «Historical Analysis of France’s Foreign Trade : the TOFLIT18 project»  with Corentin Ponton et Quentin Vidal, *Dialogue*, n°43, Juillet 2016 [en français](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-43.pdf "https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-43.pdf")  [in English](https://dial.ird.fr/wp-content/uploads/2021/10/focus-dialogue-juillet2016english.pdf "https://dial.ird.fr/wp-content/uploads/2021/10/focus-dialogue-juillet2016english.pdf")
 
+Guillaume Daudin, «Le libre-échange, un simple outil ?», *Rue Saint-Guillaume, Revue de l’association des Sciences-Po*, n°161, Décembre 2010
+
 “Débat : l’histoire économique en Grande-Bretagne” with Leslie Hannah, Jean-Claude Daumas et Anne Pezet, *Entreprises et histoire*, 2008, n°52, p. 96-104  [https://doi.org/10.3917/eh.052.0096](https://doi.org/10.3917/eh.052.0096 "https://doi.org/10.3917/eh.052.0096")  
 
 “Le commerce extérieur revisité : retour sur la spécialisation sectorielle ” with Paola Monperrus-Veroni, Christine Rifflart and Danielle Schweisguth, *Problèmes économiques*, n° 2.941, 13/02/2008. [Link](http://www.ladocumentationfrancaise.fr/catalogue/3303332029419/index.shtml?xtor=EPR-527 "http://www.ladocumentationfrancaise.fr/catalogue/3303332029419/index.shtml?xtor=EPR-527")  
