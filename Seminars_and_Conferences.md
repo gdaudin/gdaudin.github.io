@@ -6,6 +6,16 @@ permalink: Seminars_and_Conferences
 
 # 2022
 
+Septembre 
+Economic Consequences of the Age of Liberal Revolutions, 1810-1848 Conference, Lisbon, Septembre 23rd 2022
+Presentation of the effects of the revolution and warfare on the French economy, 1789-1815
+(with Loïc Charles, Guillaume Daudin and Silvia Marzagalli)
+
+July
+2022 World Economic History Congress
+- Member of the Executive Committee (along with Liliane Hilaire-Pérez)
+- Organizer of the Book Session in honor of Patrick O’Brien: Joseph Inikori (ed), British Imperialism and Globalization, c.1650-1960: Essays in Honour of Patrick O’Brien, Boydell, 2022 Patrick K. O’Brien (ed), The Crucible of Revolutionary and Napoleonic Warfare and European Transitions to Modern Economic Growth, Brill, 2021 
+- Organizer (with Loïc Charles) of the panel New approaches to the consequences of trade agreements"
 
 June
 2022 European Historical Economics Society Conference
@@ -106,7 +116,8 @@ LEDa departemental seminar, Dauphine
 Presentation: «The Rationality of Early Modern Merchant Accounting: a Quantitative Approach» (with Pierre Gervais)  
 
 September  
-Colloque Protectionnisme, libre-échange, compétitivité et développement économique : Quelle réalité ? (Société Internationale Jean-Baptiste Say Laboratoire Triangle – Université de Lyon 2 Réseau de Recherche sur l’Innovation)  
+Colloque au CNAM (Conservatoire National des arts et métiers)
+Protectionnisme, libre-échange, compétitivité et développement économique : Quelle réalité ? (Société Internationale Jean-Baptiste Say Laboratoire Triangle – Université de Lyon 2 Réseau de Recherche sur l’Innovation)  
 Presentation: How to wage a trade war? Lessons from the Second Hundred Years War.  
 
 August  
@@ -223,7 +234,7 @@ Economic History Society, 2016 Meeting (Cambridge)
 
 [Presentation](Seminars_and_Conferences_files/Pre%CC%81sentation%20Cambridge.pdf "Seminars_and_Conferences_files/Présentation Cambridge.pdf") of «Comparing Early Trade Statistics: The Case of Austrian Netherlands and France from 1759 to 1791»  
 
-2015  
+# 2015  
 
 November  
 
