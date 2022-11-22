@@ -5,26 +5,28 @@ permalink: In_the_media
 --- 
   
 
-  
+2023
+
+22 Novembre
+SudRadio, Parlons vrai chez Bourdin
+La Confrontation : Protectionnisme : gros mot hier, solution demain ?
+[Site de l’emission](https://www.sudradio.fr/emission/la-confrontation-4)
+[Podcast](https://podcasts.sudradio.fr/podcast/download/84315.mp3)
+
+
 
 2018  
 
 Bibliothèque de Paris-Dauphine  
-
 Open Access Week  
-
 [Témoignage](https://portail.bu.dauphine.fr/visibilite-des-publications/temoignages-de-chercheurs.html "https://portail.bu.dauphine.fr/visibilite-des-publications/temoignages-de-chercheurs.html")  
 
   
 
 2017  
 
-  
-
 AFP, le Point, le Parisien, RTL.be, Mai  
-
 Mondialisation: "formidable opportunité" ou "danger" pour la France?  
-
 [http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360\_28.php](http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360_28.php "http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360_28.php")  
 
 [http://www.leparisien.fr/flash-actualite-economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-6911640.php](http://www.leparisien.fr/flash-actualite-economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-6911640.php "http://www.leparisien.fr/flash-actualite-economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-6911640.php")  

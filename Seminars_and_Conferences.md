@@ -6,13 +6,20 @@ permalink: Seminars_and_Conferences
 
 # 2022
 
-Septembre 
+November
+Basel University Faculty of Business and Economics
+[Research Seminar](https://wwz.unibas.ch/en/research/research-seminar/)
+Presentation of "The British war on French trade, 1744-1815" (with Elisa Tirindelli)
+
+
+
+September 
 Economic Consequences of the Age of Liberal Revolutions, 1810-1848 Conference, Lisbon, Septembre 23rd 2022
 Presentation of the effects of the revolution and warfare on the French economy, 1789-1815
 (with Loïc Charles, Guillaume Daudin and Silvia Marzagalli)
 
 July
-2022 World Economic History Congress
+2022  World Economic History Congress
 - Member of the Executive Committee (along with Liliane Hilaire-Pérez)
 - Organizer of the Book Session in honor of Patrick O’Brien: Joseph Inikori (ed), British Imperialism and Globalization, c.1650-1960: Essays in Honour of Patrick O’Brien, Boydell, 2022 Patrick K. O’Brien (ed), The Crucible of Revolutionary and Napoleonic Warfare and European Transitions to Modern Economic Growth, Brill, 2021 
 - Organizer (with Loïc Charles) of the panel New approaches to the consequences of trade agreements"
@@ -23,13 +30,11 @@ Groningen
 The British war on French trade, 1716-1822 (with Elisa-Maria Tirindelli)
 
 May
-
 Working Lunch
 Institute for European Global Studies, Basel University
 [Eighteenth-Century Slave Trade Profits](2022_Bâle.pdf)
 
 March
-
 [Séminaire Cournot](https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
 Beta, Université de Strasbourg
 The rationality of early modern merchant bookkeeping: a quantitative approach (with Pierre Gervais)
@@ -41,7 +46,6 @@ Not “easy to win”: The British war on French trade, 1744-1815 (with Elisa-Ma
 How Can We Calculate the Profits of the Slave Trade?
 
 January
-
 [Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](programm_forschungskolloquium_wintersemester_2021_22.pdf)
 Berlin
 The Rationality of Early Modern Merchant Bookkeeping: A Quantitative Approach
