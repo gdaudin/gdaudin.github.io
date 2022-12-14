@@ -6,6 +6,12 @@ permalink: Seminars_and_Conferences
 
 # 2022
 
+December
+APECE (Association pour l’Étude de la Colonisation Européenne - https://apece1750-1850.blog4ever.com/) conference :
+"Les profits de la traite pour l'Europe"
+[Zoom recording](https://pantheonsorbonne.zoom.us/rec/share/hBKVe5lTAJolhES9kSUMqM3I84eM62vkiPycAfv6KMSftYVK1eb3W1mQXKPjiOIA.fKpEbUxu73Atve5n?startTime=1670076628000)
+Password: 57tj6U2@
+
 November
 Basel University Faculty of Business and Economics
 [Research Seminar](https://wwz.unibas.ch/en/research/research-seminar/)

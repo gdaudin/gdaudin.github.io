@@ -8,6 +8,14 @@ Please do not hesitate to contact me to get help in using these databases (in ot
 
   
 
+# French external trade  
+
+TOFLIT18 through on Zenodo (datapackage format) [https://doi.org/10.5281/zenodo.6573396](https://doi.org/10.5281/zenodo.6573396)
+c. 570,000 observations of mainly French bilateral trade by product, 1716-1823
+
+See the Toflit18 [datascape](http://toflit18.medialab.sciences-po.fr/#/home)
+
+[Retranscription](Databases_files/N%C2%B031-Espagne_1788%20et%20toiles%20pour%20l%27Afrique%201784.pdf "Databases_files/N°31-Espagne_1788 et toiles pour l'Afrique 1784.pdf") of the «Observations sur les deux états remis par le Directeur de la Balance du Commerce. L’un concernant notre commerce avec l’Espagne en 1782, l’autre contenant le détail des toiles des Indes importées à l’étranger pour être réexportées pour le commerce d’Afrique en l’année 1784.», AN, F12/13101, n° 31 (done by Esther Benbassat (OFCE))
   
 
 # International trade in value-added  
@@ -16,9 +24,6 @@ Please do not hesitate to contact me to get help in using these databases (in ot
 
 [Data.zip](https://universitedauphine-my.sharepoint.com/:u:/g/personal/guillaume_daudin_dauphine_psl_eu/Eekh7R7cIr9PvVfmummDYRwByNxpJ8HokgAEWL01WNAikw?e=SvEA3g "PIWIM_Bases_Sources.zip")  
 
-  
-
-  
 
 «Who produce for Whom in the World Economy?», with Christine Rifflart and Danièle Schweisguth, Canadian Journal of Economics, forthcoming 2011 ([Pre-publication version](Databases_files/Daudin%20Rifflart%20Schweisguth%20Who%20produces%20for%20whom%20CJE%202011%20-%20Normal%20formating.pdf "Databases_files/Daudin Rifflart Schweisguth Who produces for whom CJE 2011 - Normal formating.pdf"), [Online Statistical Appendix.pdf](Databases_files/Online%20Statistical%20Appendix.pdf "Databases_files/Online Statistical Appendix.pdf"))  
 
@@ -46,10 +51,4 @@ More data are available upon request.
 
   
 
-# French external trade  
 
-TOFLIT18 through on Zenodo (datapackage format) [https://doi.org/10.5281/zenodo.6573396](https://doi.org/10.5281/zenodo.6573396)
-
-See the Toflit18 [datascape](http://toflit18.medialab.sciences-po.fr/#/home)
-
-[Retranscription](Databases_files/N%C2%B031-Espagne_1788%20et%20toiles%20pour%20l%27Afrique%201784.pdf "Databases_files/N°31-Espagne_1788 et toiles pour l'Afrique 1784.pdf") of the «Observations sur les deux états remis par le Directeur de la Balance du Commerce. L’un concernant notre commerce avec l’Espagne en 1782, l’autre contenant le détail des toiles des Indes importées à l’étranger pour être réexportées pour le commerce d’Afrique en l’année 1784.», AN, F12/13101, n° 31 (done by Esther Benbassat (OFCE))

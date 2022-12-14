@@ -24,7 +24,7 @@ Sciences Po (Paris)
 Affiliate researcher  
 
 August 2017 - July 2019  
-Banque de France, service du Diagnostic conjoncturel de la direction de la conjoncture et des prévisons macroéconomique (Direction générale des Statistiques, des Études et de l’International)  
+Banque de France, service du Diagnostic conjoncturel de la direction de la conjoncture et des prévisions macroéconomique (Direction générale des Statistiques, des Études et de l’International)  
 Consultant  
 
 September 2008 - April 2017  
@@ -108,9 +108,11 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 ## Administrative responsabilities  
 
-2014-now: Member of «Conseil de Département LSO» in University Paris-Dauphine  
+2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
 
 2013-now: Member of the «Conseil de Documentation» in University Paris-Dauphine
+
+2014-2022: Member of «Conseil de Département LSO» in University Paris-Dauphine  
 
 2018-2021: Member of the «Commission Consultative Représentative» (in charge of recruitements) of the LEDA  
 
@@ -168,43 +170,24 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2014 : Early Trade Statistics, OFCE, Paris [Program](Curriculum_Vitae_files/Workshop23mai2014_3.pdf "Curriculum_Vitae_files/Workshop23mai2014_3.pdf")  
 
-  
-
 2012 : Session on international trade statistics between 1700 and 1830 at the 2012 World Economic History Conference, Stellenbosch  
-
-  
 
 2012 : Session on Commodity Chains in the First Period of Globalization at the Nineth European Social Science History conference at Glasgow University (with Loïc Charles, Werner Scheltjens and Philipp Roessner)  
 
-  
-
 2011 : Session on international trade statistics between 1700 and 1830 at the third ENIUGH Congress, London  
-
-  
 
 2011    : Workshop on international trade statistics between 1700 and 1830, Lille ([Program](Curriculum_Vitae_files/Lille%202011%20-%20Official%20program.pdf "Curriculum_Vitae_files/Lille 2011 - Official program.pdf"))  
 
-  
-
 2009-11 :Organisation of the SIUTE seminar at the department EQUIPPE de (Lille-I/Lille-II/Lille-III)  
-
-  
 
 2009: Organization of the Séminaire Parisien d’Histoire Économique with Jérôme Bourdieu, Philippe Minard and Gilles Postel-Vinay.  
 
-  
-
 2007: Paris-X et Chaire Finances Internationales, Journée d’étude sur l’histoire des marchés  Avec Vincent Bignon  
-
-  
 
 2006: OFCE, Journées d’étude sur le commerce international (janvier et octobre)  
 
-  
-
 2003: Annual AFSE conference, Member of the program committee
 
-  
 
 ## Scientific associations   
 
