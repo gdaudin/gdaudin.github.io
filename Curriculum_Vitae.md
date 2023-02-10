@@ -42,45 +42,31 @@ Member of EQUIPPE (EA 4018)
 Sciences Po (Paris)  
 Economist at the “Economics of globalization” department  
 
-  
-
 2006-2007  
 Edinburgh University  
 Department of Economic and Social History  
 Temporary lecturer  
-
-  
 
 2005-2007    
 [Chaire Finances Internationales](http://www.financesinternationales.sciences-po.fr/ "http://www.financesinternationales.sciences-po.fr/")  
 Sciences Po (Paris)  
 Associate researcher  
 
-  
-
 2001-2002    
 Stanford University (Economics department)  
 Lecturer and post-doctorate  
-
-  
 
 2000-2001    
 London School of Economics and Political Science/ Christie’s  
 Researcher (National Service)  
 
-  
-
 # Prizes and grants  
 
 2018 Third call for the «Governance Analytics» project (PSL, [https://www.governanceanalytics.org](https://www.governanceanalytics.org "https://www.governanceanalytics.org"))  
 
-  
-
-2018-2021 «PORTs & Information and Communication Sciences and Technology, Querying and visualizing eighteenth-century shipping and trade dynamics in the digital era (PORTIC)»
+2018-2023 «PORTs & Information and Communication Sciences and Technology, Querying and visualizing eighteenth-century shipping and trade dynamics in the digital era (PORTIC)»
     4-year ANR funded project. Main investigator : Silvia Marzagalli (Nice)
     Investigator
-
-  
 
 2014-2017  «Transformations of the French Economy through the Lens of International Trade, 1716-1821       (TOFLIT18)» ([toflit18.hypotheses.org)](http://toflit18.hypotheses.org "http://toflit18.hypotheses.org")  
 4-year ANR funded project (250 000€)  
@@ -105,16 +91,15 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 1996 Awarded a three-year PhD grant by Centre Nationale de la Recherche Scientifique (CNRS) – European Program  
 
 # Academic activities  
-
-## Administrative responsabilities  
+## Administrative responsibilities  
 
 2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
 
 2013-now: Member of the «Conseil de Documentation» in University Paris-Dauphine
 
-2014-2022: Member of «Conseil de Département LSO» in University Paris-Dauphine  
+2018-2021, 2023-now: Member of the «Commission Consultative Représentative» (in charge of hiring) of the LEDA  
 
-2018-2021: Member of the «Commission Consultative Représentative» (in charge of recruitements) of the LEDA  
+2014-2022: Member of «Conseil de Département LSO» in University Paris-Dauphine  
 
 2017-2020: Member of the «Conseil de Laboratoire du LEDA» in University Paris-Dauphine  
 
@@ -124,29 +109,27 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2013-2016: Member of the CEVU in University Paris-Dauphine  
 
-## Search Commitees  
+## Search Committees  
 
-2018: Member of the search comittee for Professeur des Universités in History, Université Paris-I  
+2018: Member of the search committee for Professeur des Universités in History, Université Paris-I  
 
-2017: Member of the search comittee for Professeur des Universités in Economics, Université Paris-Dauphine  
+2017: Member of the search committee for Professeur des Universités in Economics, Université Paris-Dauphine  
 
-2016: Member of the search comittee for Professeur des Universités in Economics, Université de Nancy  
+2016: Member of the search committee for Professeur des Universités in Economics, Université de Nancy  
 
-2015: Co-organizer of the search comittee for Professeur des Universités in Economics, Université Paris-Dauphine  
+2015: Co-organizer of the search committee for Professeur des Universités in Economics, Université Paris-Dauphine  
 
-2015: Member of the search comittee for Maître de Conférence in Economics, Université Lille-I  
+2015: Member of the search committee for Maître de Conférence in Economics, Université Lille-I  
 
-2014: President of the search comittee for Professeur des Universités in Economics, Université Paris-Dauphine  
+2014: President of the search committee for Professeur des Universités in Economics, Université Paris-Dauphine  
 
-2014: Member of the search comittee for Maître de Conférence in Economics, Université Paris-8 2014: Member of the search comittee for Maître de Conférence in Economics, Université Paris-Sud  
+2014: Member of the search committee for Maître de Conférence in Economics, Université Paris-8 2014: Member of the search committee for Maître de Conférence in Economics, Université Paris-Sud  
 
-2013: Member of the search comittee for Assistant Professors in Economics, Dauphine  
+2013: Member of the search committee for Assistant Professors in Economics, Dauphine  
 
-2009: Member of the search comittee for Maître de Conférence in Economics, Université Lille-I  
+2009: Member of the search committee for Maître de Conférence in Economics, Université Lille-I  
 
-  
-
-## Editorial responsabilities  
+## Editorial responsibilities  
 
 2012-now: Member of the Comité de lecture of Histoire et Mesure
 
@@ -156,17 +139,13 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2011-2015: Member of the editorial board of Explorations in Economic History  
   
-
 ## Organization of academic conferences and seminars  
 
-2016-2022: Member of the organizing committee for the successful Parisian bid for hosting the 2021/2022 World Economic Conference. [link](https://afhe.hypotheses.org/10667 "https://afhe.hypotheses.org/10667")  
+2016-2023: Member of the organizing committee for the successful Parisian bid for hosting the 2021/2022 World Economic Conference. [link](https://afhe.hypotheses.org/10667 "https://afhe.hypotheses.org/10667")  
 
 2017 : International Trade and the Economy, 1600-1870. [Program and report](https://toflit18.hypotheses.org/639 "https://toflit18.hypotheses.org/639")  
 
-
 2016 : Classifying international trade before 1945, SciencesPo, Paris [Program](Curriculum_Vitae_files/Program_TOFLIT18_2016_September_Paris.pdf "Curriculum_Vitae_files/Program_TOFLIT18_2016_September_Paris.pdf")  
-
-  
 
 2014 : Early Trade Statistics, OFCE, Paris [Program](Curriculum_Vitae_files/Workshop23mai2014_3.pdf "Curriculum_Vitae_files/Workshop23mai2014_3.pdf")  
 
@@ -187,7 +166,6 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 2006: OFCE, Journées d’étude sur le commerce international (janvier et octobre)  
 
 2003: Annual AFSE conference, Member of the program committee
-
 
 ## Scientific associations   
 
@@ -218,65 +196,50 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 
 ## PhD supervisions:  
 
-Co-supervision d’Elisa Maria Tirindelli, Trinity College (Dublin), Inscrite depuis 2016. Historical Urban Development (avec Prof.Ronan Lyons)  
+2016-2022 (Informal) Co-supervision d’Elisa Maria Tirindelli, Trinity College (Dublin), . Historical Urban Development (avec Prof.Ronan Lyons)  
 
 ## Other supervisions  
 
 Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants :  
 
-\- 2017 : Paul Chevret (L3 Dauphine - retranscription et indices de prix - 4 mois) ; Matthias Loise (M1 Dauphine - prix aberrants  - 6 mois) ; Maëlle Stricot (L3 CPES - indices de prix - un mois)  
+- 2017 : Paul Chevret (L3 Dauphine - retranscription et indices de prix - 4 mois) ; Matthias Loise (M1 Dauphine - prix aberrants  - 6 mois) ; Maëlle Stricot (L3 CPES - indices de prix - un mois)  
 
-\- 2016 : Ramillo Parungao (ISC Paris - Retranscriptions - 2 mois) ; Florence Peret (M1 UVSQ - produits exotiques - 4 mois) ; Corentin Ponton (M1 Dauphine - Traité d’Eden - 3 mois) ; Quentin Vidal (M1 TSE - identification des biens - 3 mois) 
+- 2016 : Ramillo Parungao (ISC Paris - Retranscriptions - 2 mois) ; Florence Peret (M1 UVSQ - produits exotiques - 4 mois) ; Corentin Ponton (M1 Dauphine - Traité d’Eden - 3 mois) ; Quentin Vidal (M1 TSE - identification des biens - 3 mois) 
 
-\- 2015 : Federico d’Onofrio (Postdoc de Yale - Commerce des céréales)  ; Cyril Mouton (L3 Dauphine - Gestion des données - 3 mois) ; Elisa Maria Tirindelli (M1 PSE - Effet des Guerres sur le commerce - mémoire de M2)  
+- 2015 : Federico d’Onofrio (Postdoc de Yale - Commerce des céréales)  ; Cyril Mouton (L3 Dauphine - Gestion des données - 3 mois) ; Elisa Maria Tirindelli (M1 PSE - Effet des Guerres sur le commerce - mémoire de M2)  
 
-\- 2014 : Alexandre Aubourg (M1 SciencesPo - Commerce de Hambourg - 3 mois) ; Jérémy Hervelin (M1 Paris-I - Suivi des retranscriptions - 3 mois) ; Pierre Hollegien (M2 Dauphine - Commerce des médicaments - 3 mois)  
-
-  
+- 2014 : Alexandre Aubourg (M1 SciencesPo - Commerce de Hambourg - 3 mois) ; Jérémy Hervelin (M1 Paris-I - Suivi des retranscriptions - 3 mois) ; Pierre Hollegien (M2 Dauphine - Commerce des médicaments - 3 mois)    
 
 ## Thesis committees  
 
-2020-now : Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
+2020-2022: Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
 
-2018-now : Member of the «Comité de suivi de thèse» of Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais)  
+2022: Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais), Président du Jury
 
-2017-2020 : Member of the «Comité de suivi de thèse» of Arnold Njike («Trade costs, Trade performance and Global value chains » under the supervision of Jean-Marc Siroën)  
+2018-2022: Member of the «Comité de suivi de thèse» of Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais)  
 
-2020:  
+2017-2020: Member of the «Comité de suivi de thèse» of Arnold Njike («Trade costs, Trade performance and Global value chains » under the supervision of Jean-Marc Siroën)  
 
-\- Paul Maneuvrier-Hervieu (Université de Caen Normandie), La Normandie dans l’économie Atlantique au 18e siècle Production, commerce et crises, supervisors : Professor Michel Biard,  Professor Jean-Marc Moriceau.
+2020 : Paul Maneuvrier-Hervieu (Université de Caen Normandie), La Normandie dans l’économie Atlantique au 18e siècle Production, commerce et crises, supervisors : Professor Michel Biard,  Professor Jean-Marc Moriceau.
 
-\- Arnold Njike (Université de Paris Dauphine-PSL), Trade costs, Trade performance and Global value chains, supervisor : Professor Jean-Marc Siroën. Président du jury
+2020: Arnold Njike (Université de Paris Dauphine-PSL), Trade costs, Trade performance and Global value chains, supervisor : Professor Jean-Marc Siroën. Président du jury
 
-2018:  
+2018: Franz Zobl (LSE), Regional Economic Development under Trade Liberalization, Technological Change and Market Access, supervisors : Professor Joan Roses,  Professor Max-Stephan Schulze.
 
-\- Franz Zobl (LSE), Regional Economic Development under Trade Liberalization, Technological Change and Market Access, supervisors : Professor Joan Roses,  Professor Max-Stephan Schulze.
+2017 Cyril Milhaud (EHESS) Sacré Crédit! The Rise and Fall of Ecclesiastical Credit in Early Modern Spain, sous la direction de Jérôme Bourdieu, Rapporteur.  
 
-2017 :  
+2016: Marguerite Martin (Paris-I), Les Marchés de l’indigo en France. Flux, acteurs, produits (XVIIe - XVIIIe siècles), sous la direction de Dominique Margairaz.  
 
-\- Cyril Milhaud (EHESS) Sacré Crédit! The Rise and Fall of Ecclesiastical Credit in Early Modern Spain, sous la direction de Jérôme Bourdieu, Rapporteur.  
+2016: Léo Charles (Bordeaux), Protection, spécialisation et croissance économique pendant la première mondialisation en France et en Suisse (1850-1913), Sous la direction de Bertrand Blancheton et Stéphane Bécuwe, rapporteur  
 
-2016:  
+2015: Jaime Rafael AHCAR OLMOS (Dauphine), An inquiry on Regional Trade Integration and Trade Potentials. Sous la direction de Jean-Marc Siroën, Président du jury.  
 
-\- Marguerite Martin (Paris-I), Les Marchés de l’indigo en France. Flux, acteurs, produits (XVIIe - XVIIIe siècles), sous la direction de Dominique Margairaz.  
-
-\- Léo Charles (Bordeaux), Protection, spécialisation et croissance économique pendant la première mondialisation en France et en Suisse (1850-1913), Sous la direction de Bertrand Blancheton et Stéphane Bécuwe, rapporteur  
-
-2015:  
-
-\- Jaime Rafael AHCAR OLMOS (Dauphine), An inquiry on Regional Trade Integration and Trade Potentials. Sous la direction de Jean-Marc Siroën, Président du jury.  
-
-2011:  
-
-\- Xin WANG (Lille-I), An economic and political assessment of carbon policies in China. Sous la direction d’Alain Ayong Le Kama  
-
-  
+2011: Xin WANG (Lille-I), An economic and political assessment of carbon policies in China. Sous la direction d’Alain Ayong Le Kama  
 
 ## HDR committees  
 
 2022: Guillaume Bazot, The consequences of financial liberalization on the cost of capital :
 A Macro-historical perspective. Sous la direction de Claude Diebolt.
-
 
 2018: Elise Huillery, Human Capital, Psychology, and Poverty. Sous la direction de Philippe de Vreyer  
 
