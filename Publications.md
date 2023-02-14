@@ -14,7 +14,7 @@ Pour acheter une version papier de la seconde édition (2011) : [lulu.com](https
 
 # Papers in refereed journals  
 
-Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography* (2022) [DOI:10.1093/jeg/lbac007](https://doi.org/10.1093/jeg/lbac007)
+Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography*, 22:5, p. 989-1044 (2022) [DOI:10.1093/jeg/lbac007](https://doi.org/10.1093/jeg/lbac007)
 
 Loïc Charles, Guillaume Daudin, Paul Girard, Guillaume Plique « Exploring the Transformation of French and European Trade and Economy in the Long Eighteenth Century (1713-1823) : the TOFLIT18 Project », *Historical Methods: A Journal of Quantitative and Interdisciplinary History*, 55:4, p. 228-258 (2022) [DOI: 10.1080/01615440.2022.2032522](https://doi.org/10.1080/01615440.2022.2032522)
 
@@ -142,6 +142,7 @@ Guillaume Daudin, «Le libre-échange, un simple outil ?», *Rue Saint-Guillaume
 
 # Other publications
 
+Jérôme Héricourt, Lise Patureau, Guillaume Daudin, "Gains from trade: International transport costs still matter, especially additive ones", VoxEU.org, July 19th 2022 [link](https://cepr.org/voxeu/columns/gains-trade-international-transport-costs-still-matter-especially-additive-ones)
 
 Faubert, Violaine, Guillaume Daudin, "Analysing cost-push inflation using world input-output tables", VoxEU.org, May 13th 2022, [link](https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables)   
   

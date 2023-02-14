@@ -139,9 +139,9 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2011-2015: Member of the editorial board of Explorations in Economic History  
   
-## Organization of academic conferences and seminars  
+## Organisation of academic conferences and seminars  
 
-2016-2023: Member of the organizing committee for the successful Parisian bid for hosting the 2021/2022 World Economic Conference. [link](https://afhe.hypotheses.org/10667 "https://afhe.hypotheses.org/10667")  
+2016-2022: Member of the organising committee for the successful Parisian bid for hosting the 2021/2022 World Economic Conference. [link](https://afhe.hypotheses.org/10667 "https://afhe.hypotheses.org/10667")  
 
 2017 : International Trade and the Economy, 1600-1870. [Program and report](https://toflit18.hypotheses.org/639 "https://toflit18.hypotheses.org/639")  
 
