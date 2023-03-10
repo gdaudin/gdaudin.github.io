@@ -72,11 +72,11 @@ Paul Girard, Guillaume Daudin, Loïc Charles and Guillaume Plique, « [L’explo
 
 # Book chapters  
 
-Loïc Charles, Guillaume Daudin and Silvia Marzagalli «The Epicenter of the Storm : the effect of Revolutionary and Napoleonic Warfare on the French Economy, 1793-1815» in *The Crucible of Revolutionary and Napoleonic Warfare and European Transitions to Modern Economic Growth*, Patrick O’Brien (Ed.), Boston & Leiden: Brill (2022)
+Loïc Charles, Guillaume Daudin and Silvia Marzagalli «The Epicenter of the Storm : the effect of Revolutionary and Napoleonic Warfare on the French Economy, 1793-1815» in *The Crucible of Revolutionary and Napoleonic Warfare and European Transitions to Modern Economic Growth*, Patrick O’Brien (Ed.), p. 50-81, Boston & Leiden: Brill (2022)
 
 Loïc Charles and Guillaume Daudin «Cross-checking STRO with the French Balance du Commerce data», in Jan Willem Veluwenkamp & Werner Scheltjens (Ed.), *Early Modern Shipping and Trade : Novel Approaches Using Sound Toll Registers Online* (pp. 133-150). Boston & Leiden: Brill (2018)  
 
-Daudin, Guillaume. “Le Commerce Maritime et La Croissance Européenne Au XVIIIe Siècle.” *The Sea in History - The Early Modern World* (2017): 9–18. doi:10.1017/9781782049098.005.  
+Daudin, Guillaume. “Le Commerce Maritime et La Croissance Européenne Au XVIIIe Siècle.” *The Sea in History - The Early Modern World*, Christian Buchet, Gérard Le Bouëdec (Eds), p. 9-18 Boydell & Brewer (2017) doi:10.1017/9781782049098.005.  
 
 «Les politiques communes de l’Union européenne», avec Jacques Le Cacheux, in *L’économie Européenne 2016*, p. 36-47, OFCE, La Découverte, 2016  
 
@@ -146,13 +146,13 @@ Jérôme Héricourt, Lise Patureau, Guillaume Daudin, "Gains from trade: Interna
 
 Faubert, Violaine, Guillaume Daudin, "Analysing cost-push inflation using world input-output tables", VoxEU.org, May 13th 2022, [link](https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables)   
   
-Marzagalli, Silvia, Asselin, Cécile, Bouju, Alain, Charles, Loïc, Daudin, Guillaume, Geoffroy, Géraldine, Girard, Paul, Gourlet, Pauline, Mazoyer, Béatrice, de Mourat, Robin, Ooghe-Tabanou, Benjamin, Plique, Guillaume, Plumejeaud, Christine, Pourchasse, Pierrick, Sauzeau, Thierry, Théro, Héloïse, & Zoffoli, Maxime. (2021). Commerce multi-échelles autour du port de La Rochelle au XVIIIe siècle (1.0.1). Zenodo. [https://doi.org/10.5281/zenodo.5717883](https://doi.org/10.5281/zenodo.5717883 "https://doi.org/10.5281/zenodo.5717883")
+Marzagalli, Silvia, Asselin, Cécile, Bouju, Alain, Charles, Loïc, Daudin, Guillaume, Geoffroy, Géraldine, Girard, Paul, Gourlet, Pauline, Mazoyer, Béatrice, de Mourat, Robin, Ooghe-Tabanou, Benjamin, Plique, Guillaume, Plumejeaud, Christine, Pourchasse, Pierrick, Sauzeau, Thierry, Théro, Héloïse, & Zoffoli, Maxime. (2021). Commerce multi-échelles autour du port de La Rochelle au XVIIIe siècle (1.0.1). [https://medialab.github.io/portic-storymaps-2021/fr/](https://medialab.github.io/portic-storymaps-2021/fr/) ; Zenodo. [https://doi.org/10.5281/zenodo.5717883](https://doi.org/10.5281/zenodo.5717883 "https://doi.org/10.5281/zenodo.5717883")
 
 «Une histoire du désajustement franco-allemand (1995-2011)», avec Hadrien Camatte, *Blog de l’OFCE*, [09/10/2020](https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/ "https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/")  
 
 « Élasticités des prix à la consommation à un choc de change : Comparaison entre les élasticités de PIWIM et des BMEs 2018-2019», avec Hadrien Camatte et Antoine Lalliard, *note Banque de France*, n°19-117,  2019  
 
-«Élasticités des prix à la consommation à un choc de prix du pétrole : Comparaison entre les élasticités de PIWIM et des BMEs 2018-2019», avec Hadrien Cammate, *note Banque de France*, n°19-124, 2019  
+«Élasticités des prix à la consommation à un choc de prix du pétrole : Comparaison entre les élasticités de PIWIM et des BMEs 2018-2019», avec Hadrien Camatte, *note Banque de France*, n°19-124, 2019  
 
 «Élasticités des prix à la consommation à un choc de change : Présentation du modèle PIWIM et principaux résultats ; comparaison avec les BMEs», avec Antoine Lalliard, *note Banque de France*, n°18-065, 2018  
 

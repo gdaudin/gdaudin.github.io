@@ -202,6 +202,8 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 
 Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants :  
 
+- 2021 : Judith Jacquinot (M1 Dauphine Quantitative Economics - Slave trade profits - 2 mois)
+
 - 2017 : Paul Chevret (L3 Dauphine - retranscription et indices de prix - 4 mois) ; Matthias Loise (M1 Dauphine - prix aberrants  - 6 mois) ; Maëlle Stricot (L3 CPES - indices de prix - un mois)  
 
 - 2016 : Ramillo Parungao (ISC Paris - Retranscriptions - 2 mois) ; Florence Peret (M1 UVSQ - produits exotiques - 4 mois) ; Corentin Ponton (M1 Dauphine - Traité d’Eden - 3 mois) ; Quentin Vidal (M1 TSE - identification des biens - 3 mois) 
