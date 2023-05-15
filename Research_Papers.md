@@ -74,7 +74,7 @@ Daudin, Guillaume, Franck, Raphaël, Rapoport, Hillel: The Cultural Diffusion of
 
 # Other  
   
-Rönnbäck, K., Daudin, G., de Kok, G., Richardson, G., Rodrigues, M. G., "The profitability of the transatlantic slave trade: aggregate estimates and explanatory factors", [May 2023 - World Clio version][Research_Papers_files/Profitability%20of the%20European%20transatlantic%20slave%20trade%20ver%203.0_vGD.pdf]
+Rönnbäck, K., Daudin, G., de Kok, G., Richardson, G., Rodrigues, M. G., "The profitability of the transatlantic slave trade: aggregate estimates and explanatory factors", [May 2023 - World Clio version](Research_Papers_files/Profitability%20of the%20European%20transatlantic%20slave%20trade%20ver%203.0_vGD.pdf)
 
 «The cultural diffusion of the fertility transition: internal migrations in 19th century France», with Raphaël Franck and Hillel Rapoport. [Fertility Convergence\_travail v29.pdf](Research_Papers_files/Fertility%20Convergence_travail%20v29.pdf "Research_Papers_files/Fertility Convergence_travail v29.pdf")  
 
