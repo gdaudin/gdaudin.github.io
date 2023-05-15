@@ -3,9 +3,8 @@ layout: page
 title: "In the Media"
 permalink: In_the_media
 --- 
-  
 
-2023
+# 2023
 
 22 Novembre
 SudRadio, Parlons vrai chez Bourdin
@@ -13,9 +12,7 @@ La Confrontation : Protectionnisme : gros mot hier, solution demain ?
 [Site de l’emission](https://www.sudradio.fr/emission/la-confrontation-4)
 [Podcast](https://podcasts.sudradio.fr/podcast/download/84315.mp3)
 
-
-
-2018  
+# 2018  
 
 Bibliothèque de Paris-Dauphine  
 Open Access Week  
@@ -23,9 +20,10 @@ Open Access Week
 
   
 
-2017  
+# 2017  
 
-AFP, le Point, le Parisien, RTL.be, Mai  
+Mai
+AFP, le Point, le Parisien, RTL.be 
 Mondialisation: "formidable opportunité" ou "danger" pour la France?  
 [http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360\_28.php](http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360_28.php "http://www.lepoint.fr/economie/mondialisation-formidable-opportunite-ou-danger-pour-la-france-03-05-2017-2124360_28.php")  
 
