@@ -6,7 +6,10 @@ permalink: Research_Papers
 
 Working papers
 
-Charles, L., G. Daudin, S. Marzagalli, "In the epicenter of the storm? The effects of the revolution and warfare on the French Economy, 1789-1815", [Woking Paper OFCE n°2022-06](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf)
+Rönnbäck, K., Daudin, G., de Kok, G., Richardson, G., Rodrigues, M. G., "The profitability of the transatlantic slave trade: aggregate estimates and explanatory factors", [May 2023 version][Research_Papers_files/Profitability of the European transatlantic slave trade ver 3.0_vGD.pdf]
+
+
+Charles, L., G. Daudin, S. Marzagalli, "In the epicenter of the storm? The effects of the revolution and warfare on the French Economy, 1789-1815", [Working Paper OFCE n°2022-06](https://www.ofce.sciences-po.fr/pdf/dtravail/OFCEWP2022-06.pdf)
 
 Daudin, G., J. Héricourt, L. Patureau, "International Transport costs: New Findings from modeling additive costs", Document de travail (Docweb) - CEPREMAP, , no. 2203, 2022 ([link)](http://www.cepremap.fr/depot/docweb/docweb2203.pdf "pdf")  
 
