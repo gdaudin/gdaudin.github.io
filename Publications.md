@@ -14,6 +14,8 @@ Pour acheter une version papier de la seconde édition (2011) : [lulu.com](https
 
 # Papers in refereed journals  
 
+Camette, Hadrien, Daudin, Guillaume, Faubert, Violaine, Christine Rifflart, «Estimating the elasticity of consumer prices to the exchange rate: an accounting approach» *Journal of International Money and Finance* (2023), Available online [DOI: 10.1016/j.jimonfin.2023.102913](https://doi.org/10.1016/j.jimonfin.2023.102913)
+
 Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography*, 22:5, p. 989-1044 (2022) [DOI:10.1093/jeg/lbac007](https://doi.org/10.1093/jeg/lbac007)
 
 Loïc Charles, Guillaume Daudin, Paul Girard, Guillaume Plique « Exploring the Transformation of French and European Trade and Economy in the Long Eighteenth Century (1713-1823) : the TOFLIT18 Project », *Historical Methods: A Journal of Quantitative and Interdisciplinary History*, 55:4, p. 228-258 (2022) [DOI: 10.1080/01615440.2022.2032522](https://doi.org/10.1080/01615440.2022.2032522)
