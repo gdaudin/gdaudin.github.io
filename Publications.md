@@ -14,7 +14,7 @@ Pour acheter une version papier de la seconde édition (2011) : [lulu.com](https
 
 # Papers in refereed journals  
 
-Camette, Hadrien, Daudin, Guillaume, Faubert, Violaine, Christine Rifflart, «Estimating the elasticity of consumer prices to the exchange rate: an accounting approach» *Journal of International Money and Finance* (2023), Available online [DOI: 10.1016/j.jimonfin.2023.102913](https://doi.org/10.1016/j.jimonfin.2023.102913)
+Camette, Hadrien, Daudin, Guillaume, Faubert, Violaine, Christine Rifflart, «Estimating the elasticity of consumer prices to the exchange rate: an accounting approach» *Journal of International Money and Finance*, vol. 137 (2023), Available online [DOI: 10.1016/j.jimonfin.2023.102913](https://doi.org/10.1016/j.jimonfin.2023.102913)
 
 Guillaume Daudin, Jérôme Héricourt, Lise Patureau « International Transport costs: New Findings from modeling additive costs », *Journal of Economic Geography*, 22:5, p. 989-1044 (2022) [DOI:10.1093/jeg/lbac007](https://doi.org/10.1093/jeg/lbac007)
 

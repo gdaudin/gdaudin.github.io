@@ -4,7 +4,7 @@ title: About
 ---
 # Welcome / Bienvenue !
 
-You will find here information about what I do in economics and economic history. My personal website is [here](http://gdaudin.perso.free.fr/).
+You will find here information about what I do in economics and economic history. For my historical gaming activities, see [here](https://gdaudin.github.io/Games/).
 
 ![A picture of me](/assets/images/2018 Photo Guillaume La Plume.jpeg)
 
