@@ -4,6 +4,13 @@ title: "Seminars and Conferences"
 permalink: Seminars_and_Conferences
 --- 
 
+# 2023
+
+August
+11e Ecole d'Eté d'Histoire Economique Suse "Espaces du Commerce" ([Lien](https://terrae.univ-tlse2.fr/accueil-terrae/presentation/11e-ecole-dete-dhistoire-economique-aout-2023-appel-a-candidature))
+Présentation : Les espaces du commerce d’après le économistes [Présentation]("Seminars_and_Conferences_files/Daudin -- Espaces du Commerce -- Le point de vue des économistes") 
+
+
 # 2022
 
 December
