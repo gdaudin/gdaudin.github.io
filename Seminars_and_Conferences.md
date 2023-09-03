@@ -6,9 +6,21 @@ permalink: Seminars_and_Conferences
 
 # 2023
 
+September
+Economic History Association 2023 Annual Meeting, Pittsburg (USA)
+Presentation: The profitability of the transatlantic enslaved people trade: aggregate estimates and explanatory factors
+
+European Historical Economics Society Conference, Vienna, Austria, University of Economics and Business
+Presentation: Measuring smuggling: Dunkirk in 1787 and 1789
+
+
 August
-11e Ecole d'Eté d'Histoire Economique Suse "Espaces du Commerce" ([Lien](https://terrae.univ-tlse2.fr/accueil-terrae/presentation/11e-ecole-dete-dhistoire-economique-aout-2023-appel-a-candidature))
-Présentation : Les espaces du commerce d’après le économistes [Présentation](https://github.com/gdaudin/gdaudin.github.io/blob/master/Seminars_and_Conferences_files/Daudin%20--%20Espaces%20du%20Commerce%20--%20Le%20point%20de%20vue%20des%20%C3%A9conomistes.pdf) 
+11e Ecole d'Eté d'Histoire Economique "Espaces du Commerce" ([Lien](https://terrae.univ-tlse2.fr/accueil-terrae/presentation/11e-ecole-dete-dhistoire-economique-aout-2023-appel-a-candidature)), Suse Piemont
+Présentation : Les espaces du commerce d’après le économistes [Presentation](https://github.com/gdaudin/gdaudin.github.io/blob/master/Seminars_and_Conferences_files/Daudin%20--%20Espaces%20du%20Commerce%20--%20Le%20point%20de%20vue%20des%20%C3%A9conomistes.pdf) 
+
+July
+2023 World Cliometric Conference in Dublin Ireland
+Presentation: The profitability of the transatlantic slave trade: aggregate estimates and explanatory factors
 
 
 # 2022
