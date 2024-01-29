@@ -4,6 +4,16 @@ title: "Seminars and Conferences"
 permalink: Seminars_and_Conferences
 --- 
 
+# 2024
+
+January
+LEDa seminar, Université Paris Dauphine-PSL
+The Hundred Years’ Economic War: France vs England (1688-1815) (with Loïc Charles)
+
+Economic Warfare in Modern History Venice Workshop: Chapter Drafts (Stephen Broadberry and Mark Harrison, Eds.) Warwick in Venice
+Presentation: The Hundred Years’ Economic War: France vs England (1688-1815) (with Loïc Charles)
+
+
 # 2023
 
 December
