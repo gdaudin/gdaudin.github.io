@@ -47,7 +47,20 @@ More data are available upon request.
 
 # French domestic trade  
 
-“Domestic Trade and Market Size in Late 18th century France”, September 2010 in Journal of Economic History ([Web Version.pdf](Databases_files/DomesticTradeandMarketSizeNovember2009_Web%20Version.pdf "Databases_files/DomesticTradeandMarketSizeNovember2009_Web Version.pdf")) [BDD\_Domestic trade and market size.fp7.zip (File Maker Pro)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.fp7.zip "Databases_files/BDD_Domestic trade and market size.fp7.zip") [BDD\_Domestic trade and market size.csv.zip (csv file)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") [BDD\_Domestic trade and market size.dta.zip (Stata)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.dta.zip "Databases_files/BDD_Domestic trade and market size.dta.zip") [Domestic trade and market size.do (Stata programming)](Databases_files/Domestic%20trade%20and%20market%20size.do "Databases_files/Domestic trade and market size.do") [Bilateral transport costs.zip](Databases_files/Bilateral%20transport%20costs.zip "Databases_files/Bilateral transport costs.zip"). Also published on Zenodo [doi:10.5281/zenodo.6341705](https://doi.org10.5281/zenodo.6341705)
+“Domestic Trade and Market Size in Late 18th century France”, September 2010 in Journal of Economic History ([Web Version.pdf](Databases_files/DomesticTradeandMarketSizeNovember2009_Web%20Version.pdf "Databases_files/DomesticTradeandMarketSizeNovember2009_Web Version.pdf"))
+[BDD\_Domestic trade and market size.fp7.zip (File Maker Pro)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.fp7.zip "Databases_files/BDD_Domestic trade and market size.fp7.zip") 
+
+[BDD\_Domestic trade and market size.csv.zip (csv file)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") 
+
+[BDD\_Domestic trade and market size.dta.zip (Stata)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.dta.zip "Databases_files/BDD_Domestic trade and market size.dta.zip") 
+
+[Domestic trade and market size.do (Stata programming)](Databases_files/Domestic%20trade%20and%20market%20size.do "Databases_files/Domestic trade and market size.do")
+
+[Variable dictionary for BDD_Domestic trade and market size.txt](Databases_files/Variable%20dictionary%20for BDD_Domestic%20trade%20and%20market%20size.txt "Databases_files/Variable dictionary for BDD_Domestic trade and market size.txt")
+
+
+
+[Bilateral transport costs.zip](Databases_files/Bilateral%20transport%20costs.zip "Databases_files/Bilateral transport costs.zip"). The transport costs are also published on Zenodo [doi:10.5281/zenodo.6341705](https://doi.org10.5281/zenodo.6341705)
 
   
 

@@ -1,0 +1,73 @@
+inseecon: Insee code for the chief town of the consumer district
+inseesup: Insee code of the chief town in the "supply" district
+nbrliens : Existence of a link (0/1)
+prod: product (BOI: beverages; BON: hosiery; BBR: fuels (Bois à BRuler); BTR: wood for industry (Bois de TRavail); COT: cotton yarn and cotton textiles; COM: fresh and salted meat and fish, dried vegetables, live animal products, (produits de COnsoMmation); CUI: hides, leather products and hats; EPI: various consumer goods (ÉPIcerie); FER: iron; QUI: hardware; LAI: wool and woollen fabrics; MAT: various goods for production (MATières premières); PAP: paper; TOI: flax and hemp products (TOIles) )
+mer: link by sea
+gdrive: link by large river
+petiterive: link by small river
+canal: link by canal
+transport: ??
+cinqgf: internal link to the five large farms
+v9 : empty
+insee: Insee code of the chief town of the "suppy" district  (same as inseesup)
+CDCon: id for the consumer district
+numdistCon: number of the consumer district in the département (taken from the Le Roux map on page 308)
+nomCon: name of the chief town of the consumer district
+dptCon: department number of consumer district
+dpttxtCon: department name of consumer district
+popvilleCon: population of the chief town of the consumer district in thousands (if a town with over 5,000 inhabitants)
+popCon: population of the consumer district
+villeCon: presence or absence of a town in the consumer district (0/1)
+surfCon: surface area of consumer district (square kilometers?)
+lnpopCon : ln(population of upper district)
+numdistSup,nomSup,dptSup,dpttxtSup,popvilleSup,popSup,villeSup,vSupImp,surfSup,lnpopSup: same for "supply" district
+vCon10_25: city in consumer district has between 10,000 and 25,000 inhabitants (0/1)
+vCon10_50: consumer district city has between 10,000 and 50,000 inhabitants (0/1)
+vCon25: city in consumer district with more than 25,000 inhabitants
+vCon50: city in consumer district with more than 50,000 inhabitants
+vSup10_25,vSup10_25I,vSup25I,vSup10_50,vSup25,vSup50: same for the city in the "supply" district.
+lntrsp : ln(transport price)
+sq_popvilleCon : square of the population of the city in the consumer district
+sq_popvilleSup : square of the population of the city in the "supply" district
+ln_popvilleSup: ln(population of city in "supply" district)
+ln_popvilleCon: ln(population of city in consumer district)
+
+
+
+
+
+
+
+inseecon : Code insee du chef-lieu du district consommateur
+inseesup : Code insee du chef-lieu du district "ravitailleur"
+nbrliens : Existence d'un lien (0/1)
+prod	 : produit (BOI : boissons ; BON : bonneterie ; BBR : combustibles (Bois à BRuler) ; BTR : bois pour l'industrie (Bois de TRavail) ; COT : fils de coton et textiles de coton ; COM : viandes et poissons frais et salés, légumes secs, productions des animaux vivants,  (produits de COnsoMmation) ; CUI : peaux, produits en cuir et chapeaux ;  EPI : divers biens de consommation (ÉPIcerie) ; FER : fer ; QUI : quincaillerie ; LAI : laine et tissus de laine ; MAT : divers biens destinés à la production (MATières premières) ; PAP : papier ; TOI : produits du lin et du chanvre (TOIles) )
+mer : lien par mer
+gdrive : lien par grande rivière
+petiterive : lien par petite rivière
+canal : lien par canal
+transport : ??
+cinqgf : lien interne aux cinq grosses fermes
+v9 : vide
+insee : Code insee du chef-lieu du district ravitailleur (inutile : = inseesup)
+CDCon : id pour le district consommateur
+numdistCon : numéro du district consommateur dans le département (vient de la carte de Le Roux en page 308)
+nomCon : nom du chef-lieu du district consommateur
+dptCon : numéro du département du district consommateur
+dpttxtCon : nom du département du district consommateur
+popvilleCon : population du chef-lieu du district consommateur en millier (si c'est une ville de plus de 5000 habitants)
+popCon : population du district consommateur
+villeCon : présence ou non d'une ville dans le district consommateur (0/1)
+surfCon : surface du district consommateur (kilomètres carrés ?)
+lnpopCon : ln(population du district supérieur)
+numdistSup,nomSup,dptSup,dpttxtSup,popvilleSup,popSup,villeSup,vSupImp,surfSup,lnpopSup : idem pour le district "ravitailleur"
+vCon10_25 : la ville du district consommateur comprend entre 10 000 et 25 000 habitants (0/1)
+vCon10_50 : la ville du district consommateur entre 10 000 et 50 000 habitants (0/1)
+vCon25 : la ville du district consommateur comprend plus de 25 000 habitants
+vCon50 : la ville du district consommateur comprend plus de 50 000 habitants
+vSup10_25,vSup10_25I,vSup25I,vSup10_50,vSup25,vSup50 : idem pour la ville du district "ravitailleur»
+lntrsp : ln(prix du transport)
+sq_popvilleCon : carré de la population de la ville du district consommateur
+sq_popvilleSup : carré de la population de la ville du district "ravitailleur"
+ln_popvilleSup : ln(population de la ville du district "ravitailleur"
+ln_popvilleCon : ln(population de la ville du district consommateur
