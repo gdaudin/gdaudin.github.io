@@ -196,7 +196,9 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 
 ## PhD supervisions:  
 
-2016-2022 (Informal) Co-supervision d’Elisa Maria Tirindelli, Trinity College (Dublin), . Historical Urban Development (avec Prof.Ronan Lyons)  
+2023 Capucine Ferré, LEDa (Université Paris Dauphine-PSL), "Conflict and Social Capital" with Marion Mercier
+
+2016-2022 (Informal) Co-supervision d’Elisa Maria Tirindelli, Trinity College (Dublin), "Historical Urban Development", with Ronan Lyons
 
 ## Other supervisions  
 
