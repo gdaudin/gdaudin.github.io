@@ -50,7 +50,7 @@ More data are available upon request.
 “Domestic Trade and Market Size in Late 18th century France”, September 2010 in Journal of Economic History ([Web Version.pdf](Databases_files/DomesticTradeandMarketSizeNovember2009_Web%20Version.pdf "Databases_files/DomesticTradeandMarketSizeNovember2009_Web Version.pdf"))
 [BDD\_Domestic trade and market size.fp7.zip (File Maker Pro)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.fp7.zip "Databases_files/BDD_Domestic trade and market size.fp7.zip") 
 
-[BDD\_Domestic trade and market size.csv.zip (csv file)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") 
+[BDD\_Domestic trade and market size.csv.zip (csv file, UTF-8 encoding)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.csv.zip "Databases_files/BDD_Domestic trade and market size.csv.zip") 
 
 [BDD\_Domestic trade and market size.dta.zip (Stata)](Databases_files/BDD_Domestic%20trade%20and%20market%20size.dta.zip "Databases_files/BDD_Domestic trade and market size.dta.zip") 
 
