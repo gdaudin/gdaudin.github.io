@@ -108,8 +108,6 @@ Avant-propos de Robert C. Allen, *Introduction à l’histoire économique mondi
 
 # Non-refereed journals  
 
-Liliane Hillaire-Pérez, Pauline Lemaigre-Gaffier, Guillaume Daudin - "Special Issue -- XIX World Economic History Congress" - 2022, *L’Histoire*, Paris, https://hal.uvsq.fr/hal-04507031
-
 Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](https://www.lhistoire.fr/les-nouveaux-chantiers-de-lhistoire-%C3%A9conomique/et-la-france-se-sp%C3%A9cialisa-dans-le-luxe)», *L’Histoire*, n°493, Mars 2022
 
 Guillaume Daudin and Edouard Pignède «French Trade in the 18th century: Inflation and Revolution», *Dialogue*, n°62, Septembre 2021 [en français](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue-62.pdf)[en anglais](https://dial.ird.fr/wp-content/uploads/2021/10/Dialogue_Eng_62_def.pdf)
