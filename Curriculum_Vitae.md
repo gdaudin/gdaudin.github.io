@@ -216,9 +216,15 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
 ## Thesis committees  
 
+2024: Matteo Neri-Lainé (Université Paris Dauphine-PSL), "International Trade and Firm Activity in an Insecure World"
+Supervisors :  Emmanuelle Lavallée and Gianluca Orefice. 
+President of the committee
+
 2020-2022: Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
 
-2022: Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais), Président du Jury
+2022: Louis Bissière (Université Paris-I Panthéon-Sorbonne) « Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle."
+Supervisors: Anne Conchon and Pierre Gervais
+President of the committee
 
 2018-2022: Member of the «Comité de suivi de thèse» of Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais)  
 
