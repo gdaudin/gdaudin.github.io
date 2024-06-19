@@ -6,6 +6,10 @@ permalink: Seminars_and_Conferences
 
 # 2024
 
+June
+3rd International workshop on migration and family economics, IÉSEG
+Discussion Hillel Rapoport (with M. Melki, E. Spolaore and R. Warzciag) “Cultural Remittances and Modern Fertility”
+
 January
 LEDa seminar, Université Paris Dauphine-PSL
 The Hundred Years’ Economic War: France vs England (1688-1815) (with Loïc Charles)
