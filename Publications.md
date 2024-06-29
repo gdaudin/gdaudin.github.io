@@ -108,7 +108,7 @@ Avant-propos de Robert C. Allen, *Introduction à l’histoire économique mondi
 
 # Non-refereed journals  
 
-Guillaume Daudin «La Penne-sur-Huveaune», *Advantage, The Magazine of CAGE Research Centre*, Issue 16, Spring 2024 [pdf](https://https://warwick.ac.uk/fac/soc/economics/research/centres/cage/uow_cage_mag_issue_16_low_single.pdf)
+Guillaume Daudin «Nick Crafts Changed My Life», *Advantage, The Magazine of CAGE Research Centre*, Issue 16, Spring 2024 [pdf](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/uow_cage_mag_issue_16_low_single.pdf)
 
 Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](https://www.lhistoire.fr/les-nouveaux-chantiers-de-lhistoire-%C3%A9conomique/et-la-france-se-sp%C3%A9cialisa-dans-le-luxe)», *L’Histoire*, n°493, Mars 2022
 
