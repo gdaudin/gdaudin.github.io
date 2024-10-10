@@ -95,8 +95,6 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
 
-2013-now: Member of the «Conseil de Documentation» in University Paris-Dauphine
-
 2018-2021, 2023-now: Member of the «Commission Consultative Représentative» (in charge of hiring) of the LEDA  
 
 2014-2022: Member of «Conseil de Département LSO» in University Paris-Dauphine  
@@ -108,6 +106,8 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 2014-2016: Membre de la commission de réflexion sur la réforme pédagogique LSO  
 
 2013-2016: Member of the CEVU in University Paris-Dauphine  
+
+2013-2016: Member of the «Conseil de Documentation» in University Paris-Dauphine
 
 ## Search Committees  
 
