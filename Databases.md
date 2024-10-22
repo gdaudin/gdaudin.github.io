@@ -6,7 +6,11 @@ permalink: Databases
 
 Please do not hesitate to contact me to get help in using these databases (in other words: motivate me by showing your interest, and I will write a documentation. Before that, the information given here is provisional)  
 
-  
+Rönnbäck, K., Daudin, G., De Kok, G., Richardson, D., & Rodrigues, M. (2024). Profitability of the transatlantic slave trade, dataset and programs (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13905637
+
+Daudin, G., & Franck, R. (2022). Data for Daudin, Frank & Rapoport « Can internal migration foster the convergence in regional fertility rates? Evidence from 19th century France », Economic Journal (2019), n°620, May, p.1618-1692. (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6890913
+
+Daudin, G., Héricourt, J., & Patureau, L. (2022). Data for "International Transport costs: New Findings from modeling additive costs" (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6344002
 
 # French external trade  
 

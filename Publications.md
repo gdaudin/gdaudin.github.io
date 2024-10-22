@@ -146,6 +146,10 @@ Guillaume Daudin, «Le libre-échange, un simple outil ?», *Rue Saint-Guillaume
 
 # Other publications
 
+MARZAGALLI, Silvia, ANTOLINOS-BASSO, Diégo, CHARLES, Loïc, CHRISTENSEN, Kelly, DAUDIN, Guillaume, GIRARD, Inès, GIRARD, Paul, MAZOYER, Béatrice, de MOURAT, Robin, OOGHE-TABANOU, Benjamin, PLUMEJEAUD, Christine, SAUZEAU, Thierry, et SOFIA, Pierre-Niccolò, 2024. Prospérité et résilience du port de Marseille au XVIIIe siècle [en ligne]. Septembre 2024. [link](https://medialab.github.io/portic-storymaps-2023) 
+
+MARZAGALLI, Silvia, ANTOLINOS-BASSO, Diégo, CHARLES, Loïc, CHRISTENSEN, Kelly, DAUDIN, Guillaume, HERMAN, Hélène, GIRARD, Paul, MAZOYER, Béatrice, de MOURAT, Robin, OOGHE-TABANOU, Benjamin, PFISTER-LANGANAY, Christian, PLIQUE, Guillaume, PLUMEJEAUD, Christine, POURCHASSE, Pierrick, SOFFIA, Pierre-Niccolo, et ZOFFOLI, Maxime, 2024. Commerce, contrebande et ports francs : le cas de Dunkerque au XVIIIe siècle [en ligne]. Septembre 2024. Disponible à l’adresse : [link](https://medialab.github.io/portic-storymaps-2022) 
+
 Jérôme Héricourt, Lise Patureau, Guillaume Daudin, "Gains from trade: International transport costs still matter, especially additive ones", VoxEU.org, July 19th 2022 [link](https://cepr.org/voxeu/columns/gains-trade-international-transport-costs-still-matter-especially-additive-ones)
 
 Faubert, Violaine, Guillaume Daudin, "Analysing cost-push inflation using world input-output tables", VoxEU.org, May 13th 2022, [link](https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables)   

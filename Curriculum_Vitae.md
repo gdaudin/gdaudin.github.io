@@ -93,6 +93,8 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 # Academic activities  
 ## Administrative responsibilities  
 
+2023-now: Member of the « Conseil de DIAL » in CNRS, IRD and University Paris Dauphine-PSL
+
 2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
 
 2013-now: Member of the «Conseil de Documentation» in University Paris-Dauphine
@@ -103,7 +105,7 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2017-2020: Member of the «Conseil de Laboratoire du LEDA» in University Paris-Dauphine  
 
-2017-2018: Member of the «Conseil d’UMR DIAL» in University Paris-Dauphine & IRD  
+2017-2018 : Member of the «Conseil d’UMR DIAL» in University Paris-Dauphine & IRD  
 
 2014-2016: Membre de la commission de réflexion sur la réforme pédagogique LSO  
 
