@@ -97,8 +97,6 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
 
-2013-now: Member of the «Conseil de Documentation» in University Paris-Dauphine
-
 2018-2021, 2023-now: Member of the «Commission Consultative Représentative» (in charge of hiring) of the LEDA  
 
 2014-2022: Member of «Conseil de Département LSO» in University Paris-Dauphine  
@@ -110,6 +108,8 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 2014-2016: Membre de la commission de réflexion sur la réforme pédagogique LSO  
 
 2013-2016: Member of the CEVU in University Paris-Dauphine  
+
+2013-2016: Member of the «Conseil de Documentation» in University Paris-Dauphine
 
 ## Search Committees  
 
@@ -177,7 +177,7 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 
 ## Referee work  
 
-Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Paper Series, Economic Bulletin, Economic History Review, Economic Journal, Économie et Prévision, Économie Internationale, European Review of Economic History, Explorations in Economic History, Histoire et Mesure,  Histoire, Économie et Société, Historical Methods, International Journal of Maritime History, Israel Science Foundation, Journal of Economic Geography, Journal of Economic History, Journal of International Economics, Oxford Bulletin of Economics and Statistics, Revue d’économie politique, Revue de l’OFCE, Revue des Sciences de Gestion, Revue Économique, Review of International Economics, Review of World Economics, TSEG/Low Countries Journal of Social and Economic History, Scandinavian Review of Economic History, Socio-Economic Review, World Development  
+Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Paper Series, Economic Bulletin, Economic History Review, Economic Journal, Économie et Prévision, Économie Internationale, European Review of Economic History, Explorations in Economic History, Histoire et Mesure,  Histoire, Économie et Société, Historical Methods, International Journal of Maritime History, Israel Science Foundation, Journal of Economic Geography, Journal of Economic History, Journal of International Economics, Oxford Bulletin of Economics and Statistics, Revue d’économie politique, Revue de l’OFCE, Revue des Sciences de Gestion, Revue Économique, Review of International Economics, Review of World Economics, TSEG/Low Countries Journal of Social and Economic History, Scandinavian Review of Economic History, Socio-Economic Review, Southern Economic Journal, World Development  
 
 ## Expertises
 2021-now : Member of the scientific committee of the [Maison Européenne des Sciences de l’Homme et de l a Société](https://www.meshs.fr) at Lille
@@ -218,9 +218,15 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
 ## Thesis committees  
 
+2024: Matteo Neri-Lainé (Université Paris Dauphine-PSL), "International Trade and Firm Activity in an Insecure World"
+Supervisors :  Emmanuelle Lavallée and Gianluca Orefice. 
+President of the committee
+
 2020-2022: Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
 
-2022: Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais), Président du Jury
+2022: Louis Bissière (Université Paris-I Panthéon-Sorbonne) « Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle."
+Supervisors: Anne Conchon and Pierre Gervais
+President of the committee
 
 2018-2022: Member of the «Comité de suivi de thèse» of Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais)  
 
