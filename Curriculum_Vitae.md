@@ -143,6 +143,8 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
   
 ## Organisation of academic conferences and seminars  
 
+2024: Young Researchers Day of the AFHE [link](https://afhe.hypotheses.org) 
+
 2016-2022: Member of the organising committee for the successful Parisian bid for hosting the 2021/2022 World Economic Conference. [link](https://afhe.hypotheses.org/10667 "https://afhe.hypotheses.org/10667")  
 
 2017 : International Trade and the Economy, 1600-1870. [Program and report](https://toflit18.hypotheses.org/639 "https://toflit18.hypotheses.org/639")  
@@ -204,6 +206,8 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 
 ## Other supervisions  
 
+2023-2024 Sibo Liu "The Malthusian Mechanism in the Song Dynasty", M2 QEA, Université Paris Dauphine-PSL
+
 Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants :  
 
 - 2021 : Judith Jacquinot (M1 Dauphine Quantitative Economics - Slave trade profits - 2 mois)
@@ -218,19 +222,24 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
 ## Thesis committees  
 
-2024: Matteo Neri-Lainé (Université Paris Dauphine-PSL), "International Trade and Firm Activity in an Insecure World"
+2024 Wenliang Li (Université Paris Dauphine-PSL)
+"Structural Change, Economic Growth and
+Regional Disparities in Post-reform China"
+Supervisors : Lise Patureau and Gilles Saint-Paul
+President of the committee
+
+
+2024 Matteo Neri-Lainé (Université Paris Dauphine-PSL), "International Trade and Firm Activity in an Insecure World"
 Supervisors :  Emmanuelle Lavallée and Gianluca Orefice. 
 President of the committee
 
-2020-2022: Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle » under the supervision of Silvia Marzagalli and Corinne Maitte)  
+2023-2024: Member of the "Comité de suivi de thèse" of Joseph Enguehard ("State Capacity, Violence and Divergence"), ENS de Lyon, under the supervision of Jean-Pascal Bassino
 
-2022: Louis Bissière (Université Paris-I Panthéon-Sorbonne) « Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle."
-Supervisors: Anne Conchon and Pierre Gervais
-President of the committee
+2020-2022: Member of the «Comité de suivi de thèse» of Pierre-Niccolo Sofia (« Les perles vénitiennes dans le monde interconnecté. Étude d’un commerce global au XVIIIe siècle »), Université Nice Côte d’Azur, under the supervision of Silvia Marzagalli and Corinne Maitte
 
 2018-2022: Member of the «Comité de suivi de thèse» of Louis Bissière (« Economie du réseau et ressources individuelles : mesurer leur performance dans la distribution marchande au XVIIIe siècle. » under the supervision of Anne Conchon and Pierre Gervais)  
 
-2017-2020: Member of the «Comité de suivi de thèse» of Arnold Njike («Trade costs, Trade performance and Global value chains » under the supervision of Jean-Marc Siroën)  
+2017-2020: Member of the «Comité de suivi de thèse» of Arnold Njike («Trade costs, Trade performance and Global value chains » under the supervision of Jean-Marc Siroën), Université Paris Dauphine-PSL  
 
 2020 : Paul Maneuvrier-Hervieu (Université de Caen Normandie), La Normandie dans l’économie Atlantique au 18e siècle Production, commerce et crises, supervisors : Professor Michel Biard,  Professor Jean-Marc Moriceau.
 
