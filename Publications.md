@@ -144,17 +144,24 @@ Guillaume Daudin, «Le libre-échange, un simple outil ?», *Rue Saint-Guillaume
 
 « Le commerce dans la croissance : le cas de la France au XVIIIe siècle », *Les Échos*, 24/09/2001. [Draft (pdf)](Publications_files/articleEchos.pdf "Publications_files/articleEchos.pdf")  
 
-# Other publications
-
+# Public facing websites
 MARZAGALLI, Silvia, ANTOLINOS-BASSO, Diégo, CHARLES, Loïc, CHRISTENSEN, Kelly, DAUDIN, Guillaume, GIRARD, Inès, GIRARD, Paul, MAZOYER, Béatrice, de MOURAT, Robin, OOGHE-TABANOU, Benjamin, PLUMEJEAUD, Christine, SAUZEAU, Thierry, et SOFIA, Pierre-Niccolò, 2024. Prospérité et résilience du port de Marseille au XVIIIe siècle [en ligne]. Septembre 2024. [link](https://medialab.github.io/portic-storymaps-2023) 
 
-MARZAGALLI, Silvia, ANTOLINOS-BASSO, Diégo, CHARLES, Loïc, CHRISTENSEN, Kelly, DAUDIN, Guillaume, HERMAN, Hélène, GIRARD, Paul, MAZOYER, Béatrice, de MOURAT, Robin, OOGHE-TABANOU, Benjamin, PFISTER-LANGANAY, Christian, PLIQUE, Guillaume, PLUMEJEAUD, Christine, POURCHASSE, Pierrick, SOFFIA, Pierre-Niccolo, et ZOFFOLI, Maxime, 2024. Commerce, contrebande et ports francs : le cas de Dunkerque au XVIIIe siècle [en ligne]. Septembre 2024. Disponible à l’adresse : [link](https://medialab.github.io/portic-storymaps-2022) 
+MARZAGALLI, Silvia, Antolinos-Basso, Diégo, CHARLES, Loïc, CHRISTENSEN, Kelly, DAUDIN, Guillaume, HERMAN, Hélène, GIRARD, Paul, MAZOYER, Béatrice, de MOURAT, Robin, OOGHE-TABANOU, Benjamin, PFISTER-LANGANAY, Christian, PLIQUE, Guillaume, PLUMEJEAUD, Christine, POURCHASSE, Pierrick, SOFFIA, Pierre-Niccolo, et ZOFFOLI, Maxime, 2024. Commerce, contrebande et ports francs : le cas de Dunkerque au XVIIIe siècle [en ligne]. Septembre 2024. Zenodo [https://doi.org/10.5281/zenodo.14546471](https://doi.org/10.5281/zenodo.14546471 "https://doi.org/10.5281/zenodo.14546471 https://doi.org/10.5281/zenodo.14546471")Disponible à l’adresse : [https://medialab.github.io/portic-storymaps-2022](https://medialab.github.io/portic-storymaps-2022) 
+
+Marzagalli, Silvia, Asselin, Cécile, Bouju, Alain, Charles, Loïc, Daudin, Guillaume, Geoffroy, Géraldine, Girard, Paul, Gourlet, Pauline, Mazoyer, Béatrice, de Mourat, Robin, Ooghe-Tabanou, Benjamin, Plique, Guillaume, Plumejeaud, Christine, Pourchasse, Pierrick, Sauzeau, Thierry, Théro, Héloïse, & Zoffoli, Maxime. (2021). Commerce multi-échelles autour du port de La Rochelle au XVIIIe siècle (1.0.1). [https://medialab.github.io/portic-storymaps-2021/fr/](https://medialab.github.io/portic-storymaps-2021/fr/) ; Zenodo. [https://doi.org/10.5281/zenodo.5717883](https://doi.org/10.5281/zenodo.5717883 "https://doi.org/10.5281/zenodo.5717883")
+
+
+https://toflit18.medialab.sciences-po.fr
+
+
+# Other publications
 
 Jérôme Héricourt, Lise Patureau, Guillaume Daudin, "Gains from trade: International transport costs still matter, especially additive ones", VoxEU.org, July 19th 2022 [link](https://cepr.org/voxeu/columns/gains-trade-international-transport-costs-still-matter-especially-additive-ones)
 
 Faubert, Violaine, Guillaume Daudin, "Analysing cost-push inflation using world input-output tables", VoxEU.org, May 13th 2022, [link](https://voxeu.org/article/analysing-cost-push-inflation-using-world-input-output-tables)   
   
-Marzagalli, Silvia, Asselin, Cécile, Bouju, Alain, Charles, Loïc, Daudin, Guillaume, Geoffroy, Géraldine, Girard, Paul, Gourlet, Pauline, Mazoyer, Béatrice, de Mourat, Robin, Ooghe-Tabanou, Benjamin, Plique, Guillaume, Plumejeaud, Christine, Pourchasse, Pierrick, Sauzeau, Thierry, Théro, Héloïse, & Zoffoli, Maxime. (2021). Commerce multi-échelles autour du port de La Rochelle au XVIIIe siècle (1.0.1). [https://medialab.github.io/portic-storymaps-2021/fr/](https://medialab.github.io/portic-storymaps-2021/fr/) ; Zenodo. [https://doi.org/10.5281/zenodo.5717883](https://doi.org/10.5281/zenodo.5717883 "https://doi.org/10.5281/zenodo.5717883")
+
 
 «Une histoire du désajustement franco-allemand (1995-2011)», avec Hadrien Camatte, *Blog de l’OFCE*, [09/10/2020](https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/ "https://www.ofce.sciences-po.fr/blog/une-histoire-du-desajustement-franco-allemand-1995-2011/")  
 

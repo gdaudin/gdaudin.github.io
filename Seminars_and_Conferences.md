@@ -6,6 +6,10 @@ permalink: Seminars_and_Conferences
 
 # 2024
 
+Novembre
+Work-in-Progress Workshop - PSL (École des Mines)
+Discussion Yannick Dupraz (with Latick Chaudhary and James Fenske) "A century of language and migration in India"
+
 June
 3rd International workshop on migration and family economics, IÉSEG
 Discussion Hillel Rapoport (with M. Melki, E. Spolaore and R. Warzciag) “Cultural Remittances and Modern Fertility”
