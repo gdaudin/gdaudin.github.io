@@ -93,9 +93,13 @@ Comprendre la mondialisation commerciale (1830-2005) (RICARDO ; Head: Marc Fland
 # Academic activities  
 ## Administrative responsibilities  
 
+2024-now: Director of the DIAL axis in LEDa
+
+2024-now: President of the "Comité Éthique de Recherche" (IRB) in University Paris Dauphine-PSL 
+
 2023-now: Member of the « Conseil de DIAL » in CNRS, IRD and University Paris Dauphine-PSL
 
-2021-now: Member of the "Comité Éthique" in University Paris Dauphine-PSL
+2021-2024: Member of the "Comité Éthique de Recherche" (IRB)  in University Paris Dauphine-PSL
 
 2018-2021, 2023-now: Member of the «Commission Consultative Représentative» (in charge of hiring) of the LEDA  
 
