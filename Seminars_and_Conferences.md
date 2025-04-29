@@ -4,6 +4,12 @@ title: "Seminars and Conferences"
 permalink: Seminars_and_Conferences
 --- 
 
+# 2025
+
+March
+[“On n’y voit rien”. Sources, corpus, bases de données : des processus de saisie aux processus de preuve](https://www.idhes.cnrs.fr/on-ny-voit-rien-sources-corpus-bases-de-donnees-des-processus-de-saisie-aux-processus-de-preuve/)
+Presentation of the Toflit18 database in the third session « Prouver par les données » : Traiter et interpréter; Visualiser et expliquer; Transmettre et remployer. 
+
 # 2024
 
 Novembre
