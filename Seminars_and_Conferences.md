@@ -5,10 +5,14 @@ permalink: Seminars_and_Conferences
 --- 
 
 # 2025
+May
+LEDa departemental seminar. Presentation of "Benefitting from Brutality: Profits of North Western Europe’s Slave Trade at the Eve of the Industrial Revolution" with Klas Rönnbäck, Gerhard de Kok, † David Richardson and Miguel Geraldes Rodrigues. May
+LEDa departemental seminar. Presentation of "Benefitting from Brutality: Profits of North Western Europe’s Slave Trade at the Eve of the Industrial Revolution" with Klas Rönnbäck, Gerhard de Kok, † David Richardson and Miguel Geraldes Rodrigues.
 
 March
 [“On n’y voit rien”. Sources, corpus, bases de données : des processus de saisie aux processus de preuve](https://www.idhes.cnrs.fr/on-ny-voit-rien-sources-corpus-bases-de-donnees-des-processus-de-saisie-aux-processus-de-preuve/)
 Presentation of the Toflit18 database in the third session « Prouver par les données » : Traiter et interpréter; Visualiser et expliquer; Transmettre et remployer. 
+
 
 # 2024
 
