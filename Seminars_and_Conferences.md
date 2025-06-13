@@ -52,7 +52,7 @@ Presentation: Measuring smuggling: Dunkirk in 1787 and 1789
 
 August
 11e Ecole d'Eté d'Histoire Economique "Espaces du Commerce" ([Lien](https://terrae.univ-tlse2.fr/accueil-terrae/presentation/11e-ecole-dete-dhistoire-economique-aout-2023-appel-a-candidature)), Suse Piemont
-Présentation : Les espaces du commerce d’après le économistes [Presentation](https://github.com/gdaudin/gdaudin.github.io/blob/master/Seminars_and_Conferences_files/Daudin%20--%20Espaces%20du%20Commerce%20--%20Le%20point%20de%20vue%20des%20%C3%A9conomistes.pdf) 
+Présentation : Les espaces du commerce d’après le économistes [Presentation](Seminars_and_Conferences_files/Daudin%20--%20Espaces%20du%20Commerce%20--%20Le%20point%20de%20vue%20des%20%C3%A9conomistes.pdf) 
 
 July
 2023 World Cliometric Conference in Dublin Ireland
@@ -91,7 +91,7 @@ The British war on French trade, 1716-1822 (with Elisa-Maria Tirindelli)
 May
 Working Lunch
 Institute for European Global Studies, Basel University
-[Eighteenth-Century Slave Trade Profits](2022_Bâle.pdf)
+[Eighteenth-Century Slave Trade Profits](Seminars_and_Conferences_files/2022_Bâle.pdf)
 
 March
 [Séminaire Cournot](https://beta-economics.fr/evenements/seminaire-cournot-guillaume-daudin/)
@@ -101,11 +101,11 @@ The rationality of early modern merchant bookkeeping: a quantitative approach (w
 [Economic History Seminar at PSE](https://www.parisschoolofeconomics.eu/fr/recherche-academique/vie-academique/seminaires/histoire-economique/), Paris
 Presentation: Not “easy to win”: The British war on French trade, 1744-1815 (with Elisa-Maria Tirindelli)
 
-[Maritime Trade in Medieval and Early Modern Times Lecture Series](Zaugg Aushang Vorträge.pdf) organized by Prof. Zaugg, Zürich
+[Maritime Trade in Medieval and Early Modern Times Lecture Series](Seminars_and_Conferences_files/Zaugg Aushang Vorträge.pdf) organized by Prof. Zaugg, Zürich
 Presentation: How Can We Calculate the Profits of the Slave Trade?
 
 January
-[Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](programm_forschungskolloquium_wintersemester_2021_22.pdf)
+[Berliner Forschungskolloquium Wirtschafts- und Sozialgeschichte](Seminars_and_Conferences_files/programm_forschungskolloquium_wintersemester_2021_22.pdf)
 Berlin
 The Rationality of Early Modern Merchant Bookkeeping: A Quantitative Approach
 
