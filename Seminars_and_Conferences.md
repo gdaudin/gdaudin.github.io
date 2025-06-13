@@ -5,8 +5,11 @@ permalink: Seminars_and_Conferences
 --- 
 
 # 2025
+June
+[Workshop on 18th century Nordic economic statistics](https://www.bi.edu/about-bi/events/2025/june/workshop-on-18th-century-nordic-economic-statistics/), Oslo, Norwegian Business School, organised by Lars Christian Bruno.
+Presentation: “[Speculations about a cross-European research project on eighteenth-century international trade and navigation](Seminars_and_Conferences_files/Daudin%20--%20Speculating%20--%202025.pdf)”
+
 May
-LEDa departemental seminar. Presentation of "Benefitting from Brutality: Profits of North Western Europe’s Slave Trade at the Eve of the Industrial Revolution" with Klas Rönnbäck, Gerhard de Kok, † David Richardson and Miguel Geraldes Rodrigues. May
 LEDa departemental seminar. Presentation of "Benefitting from Brutality: Profits of North Western Europe’s Slave Trade at the Eve of the Industrial Revolution" with Klas Rönnbäck, Gerhard de Kok, † David Richardson and Miguel Geraldes Rodrigues.
 
 March
