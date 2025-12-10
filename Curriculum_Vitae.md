@@ -204,7 +204,9 @@ Annales Histoire Sciences Sociales, Comparative Economic Studies, ECB Working Pa
 
 ## PhD supervisions:  
 
-2023 Capucine Ferré, LEDa (Université Paris Dauphine-PSL), "Conflict and Social Capital" with Marion Mercier
+From 2025 Ramy Shaban (Université Paris Dauphine-PSL) « Géoéconomie et paix durable », funded by the « Direction Générale des Relations Internationales et de la Stratégie » of the French « ministère des Armées »
+
+From 2023 Capucine Ferré, LEDa (Université Paris Dauphine-PSL), "Conflict and Social Capital" with Marion Mercier
 
 2016-2022 (Informal) Co-supervision d’Elisa Maria Tirindelli, Trinity College (Dublin), "Historical Urban Development", with Ronan Lyons
 
@@ -226,6 +228,11 @@ Dans le cadre du projet « TOFLIT18», j’ai encadré les étudiants suivants 
 
 ## Thesis committees  
 
+2025 Ronan Tallec (Université Paris-Cité) « Essays on the Development of State Capacity, Interest Groups, and Institutional Legacies in France from the Old Regime to the Nineteenth Century »
+Supervisor: Olivier Musy
+Rapporteur
+
+
 2024 Wenliang Li (Université Paris Dauphine-PSL)
 "Structural Change, Economic Growth and
 Regional Disparities in Post-reform China"
@@ -245,7 +252,8 @@ President of the committee
 
 2017-2020: Member of the «Comité de suivi de thèse» of Arnold Njike («Trade costs, Trade performance and Global value chains » under the supervision of Jean-Marc Siroën), Université Paris Dauphine-PSL  
 
-2020 : Paul Maneuvrier-Hervieu (Université de Caen Normandie), La Normandie dans l’économie Atlantique au 18e siècle Production, commerce et crises, supervisors : Professor Michel Biard,  Professor Jean-Marc Moriceau.
+2020 : Paul Maneuvrier-Hervieu (Université de Caen Normandie), « La Normandie dans l’économie Atlantique au 18e siècle Production, commerce et crises ».
+Supervisors : Michel Biard and Jean-Marc Moriceau.
 
 2020: Arnold Njike (Université de Paris Dauphine-PSL), Trade costs, Trade performance and Global value chains, supervisor : Professor Jean-Marc Siroën. Président du jury
 
