@@ -3,6 +3,9 @@ layout: page
 title: "In the Media"
 permalink: In_the_media
 --- 
+# 2024
+Documentaire Portic sur l’interdisciplinarité. *[S’entendre. L’interdisciplinarité en pratique.](https://anr.portic.fr/documentaire/)*
+
 
 # 2023
 
