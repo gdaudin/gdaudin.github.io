@@ -5,35 +5,40 @@ permalink: Teaching
 --- 
 A presentation of the «classe inversée» for the first-year students (in French) : [2016 - 06 Présentation CIP (avec réponses 2015, 2016 et 2017).pdf](Teaching_files/2016%20-%2006%20Pre%CC%81sentation%20CIP%20%28avec%20re%CC%81ponses%202015,%202016%20et%202017%29.pdf "Teaching_files/2016 - 06 Présentation CIP (avec réponses 2015, 2016 et 2017).pdf") and the [video](https://www.youtube.com/watch?v=9J5rQwKjJZk&feature=youtu.be "https://www.youtube.com/watch?v=9J5rQwKjJZk&feature=youtu.be"). The [Sondages Piazza, Manuel et Classe inversée.pdf](Teaching_files/Sondages%20Piazza,%20Manuel%20et%20Classe%20inverse%CC%81e.pdf "Teaching_files/Sondages Piazza, Manuel et Classe inversée.pdf"), [2017 Sondages Manuel, Piazza, classe inversée.pdf](Teaching_files/2017%20Sondages%20Manuel,%20Piazza,%20classe%20inverse%CC%81e.pdf "Teaching_files/2017 Sondages Manuel, Piazza, classe inversée.pdf").  
 
-2021-now, Université Paris-Dauphine, M2 111
-Contemporary Readings in Development (with Philippe De Vreyer)  
+2023-now, Université Paris-Dauphine,L3 Economie Appliquée, 3e année  
+Histoire du développement comparé, 1800-2020 (18h)  
 
-2021-now, Université Paris-Dauphine, PhD program 
+2021-nom, Université Paris-Dauphine, PhD program 
 Readings in Development and International Economics (with colleagues)  
 
-2021-now, Université Paris-Dauphine + PSL (Licence Sciences Monde Durable), L1 & L2
-Une histoire naturelle de l'économie (with Sidartha Gordon)  
-
-2021-now, Université Paris-Dauphine, L1 & L2 (only 2021-2022)  
-Histoire du Capitalisme  
-
 2018-now, Université Paris-Dauphine, M2, Master 111
-Lire, comprendre et commenter les travaux des autres : Commerce et développement dans une perspective historique (21h) with Elise Huillery
+Lire, comprendre et commenter les travaux des autres : Commerce et développement dans une perspective historique (21h)
+With Elise Huillery, then Anne-Laure Delatte and Phlippe 
 
-2018-now, Université Paris-Dauphine, L3, Économie Appliquée  
+2018-now, Université Paris-Dauphine, L3, Économie Appliquée, 3e année  
 Economic Growth Theory  
 
-2017-now, Université Paris-Dauphine, M1, Master AID  
+2021-2025, Université Paris-Dauphine, M2 111
+Contemporary Readings in Development (with Philippe De Vreyer)  
+
+2021-2024, Université Paris-Dauphine + PSL (Licence Sciences Monde Durable), L1 & L2 (only 2021-2022)
+Une histoire naturelle de l'économie (with Sidartha Gordon)  
+
+2021-2024, Université Paris-Dauphine, L1 & L2 (only 2021-2022)  
+Histoire du Capitalisme  
+
+2017-2019, 2020-2021, Université Paris-Dauphine, M1, Master AID  
 Histoire du développement comparé, 1800-2020 (with Élise Huilery till 2019) (18h)  
-
-2013-2015 and 2016-2018, Université Paris-Dauphine, M2, Master 111
-Commerce et développement : une approche historique (21h) (with Elise Huillery in 2017-2019)
-
-2013-now, Université Paris-Dauphine,L3 Economie Appliquée, 3e année  
-Histoire du développement comparé, 1500-1800 (18h)  
 
 2014-2020, Université Paris-Dauphine, DEGEAD, 1ere année  
 Co-responsable Macroéconomie I et II (S1a, S1b and S2) (54h)  
+
+2013-2015, 2016-2025 Université Paris-Dauphine, M2, Master 111
+Lire, comprendre et commenter les travaux des autres Commerce et développement : une approche historique (21h) (with Elise Huillery in 2017-2019, 
+Anne-Laure Delatte 2024-2025, Anne-Laure Delatte et Philippe De Vreyer 2025-2026.
+
+2013-2023, Université Paris-Dauphine,L3 Economie Appliquée, 3e année  
+Histoire du développement comparé, 1500-1800 (18h)  
 
 2006-2019, Sciences Po (Paris) - Programme “Future of Europe” With Keio University, Sophia University, Waseda University and Hokkaido University
 North-South relationships  ([North-SouthRelations.pdf](Teaching_files/North-SouthRelations.pdf "Teaching_files/North-SouthRelations.pdf"))  

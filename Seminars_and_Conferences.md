@@ -4,7 +4,24 @@ title: "Seminars and Conferences"
 permalink: Seminars_and_Conferences
 --- 
 
+# 2026
+January
+APECE (Association pour l’Étude de la Colonisation Européenne - https://apece1750-1850.blog4ever.com/) conference :
+"Bénéficier de la brutalité : les profits de la traite en Europe de l’Ouest à la veille de la Révolution Industrielle"
+
 # 2025
+
+Septembre
+EHES Congress, Stuttgart (Germany)
+Presentation : The rationality of early modern merchant bookkeeping: A quantitative approach
+
+July
+Word Economic History Congress, Lund (Sweden)
+Co-chair of the presidential session "French Economic History at Work: Archives, Associations, Entreprises"
+Presentation: "Identifying luxury in French textile exports during the eighteenth-century" in the session "Early Modern Trade: Challenges of Digitisation and Writing of New
+Histories of Empires and Their Economies"
+Presentation: "Leveraging Geopolitical History to Deal with Taxonomic Diversity of Trade Partners in RICardo" in the session "Disaggregated Bilateral Trade Data, 1870-2024"
+
 June
 [Workshop on 18th century Nordic economic statistics](https://www.bi.edu/about-bi/events/2025/june/workshop-on-18th-century-nordic-economic-statistics/), Oslo, Norwegian Business School, organised by Lars Christian Bruno.
 Presentation: “[Speculations about a cross-European research project on eighteenth-century international trade and navigation](Seminars_and_Conferences_files/Daudin%20--%20Speculating%20--%202025.pdf)”

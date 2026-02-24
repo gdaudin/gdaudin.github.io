@@ -74,6 +74,8 @@ Paul Girard, Guillaume Daudin, Loïc Charles and Guillaume Plique, « [L’explo
 
 # Book chapters  
 
+Loïc Charles, Guillaume Daudin « The Second Hundred Years War: France vs England (1688–1815) » in *Economic Warfare and Sanctions Since 1688*, Stephen Broadberry and Mark Harrison (Ed.), Cambridge University Press (2025)
+
 Loïc Charles, Guillaume Daudin and Silvia Marzagalli «The Epicenter of the Storm : the effect of Revolutionary and Napoleonic Warfare on the French Economy, 1793-1815» in *The Crucible of Revolutionary and Napoleonic Warfare and European Transitions to Modern Economic Growth*, Patrick O’Brien (Ed.), p. 50-81, Boston & Leiden: Brill (2022)
 
 Loïc Charles and Guillaume Daudin «Cross-checking STRO with the French Balance du Commerce data», in Jan Willem Veluwenkamp & Werner Scheltjens (Ed.), *Early Modern Shipping and Trade : Novel Approaches Using Sound Toll Registers Online* (pp. 133-150). Boston & Leiden: Brill (2018)  
