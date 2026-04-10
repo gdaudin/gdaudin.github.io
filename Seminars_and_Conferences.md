@@ -5,6 +5,11 @@ permalink: Seminars_and_Conferences
 --- 
 
 # 2026
+
+April
+International Macroeconomics in Historical Perspective, 3rd edition, Banque de France
+Discutant: Vincent Bignon (Banque de France, AMSE & CEPR) « The Trafalgar Squeeze of Global Liquidity » (joint with Benoit Mojon and Miguel Ortiz Serrano)
+
 January
 APECE (Association pour l’Étude de la Colonisation Européenne - https://apece1750-1850.blog4ever.com/) conference :
 "Bénéficier de la brutalité : les profits de la traite en Europe de l’Ouest à la veille de la Révolution Industrielle"

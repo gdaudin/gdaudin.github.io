@@ -12,7 +12,9 @@ Texte de la seconde édition (580 p.), 2011 : [Daudin - Commerce et Prospérite
 
 Pour acheter une version papier de la seconde édition (2011) : [lulu.com](https://www.lulu.com/fr/shop/guillaume-daudin/commerce-et-prosp%C3%A9rit%C3%A9-la-france-au-xviiie-si%C3%A8cle-2e-%C3%A9dition/paperback/product-18nv7k2w.html?q=guillaume+daudin&page=1&pageSize=4)  
 
-# Papers in refereed journals  
+# Papers in refereed journals 
+
+Rönnbäck, K., Daudin, G., deKok, G., Richardson, D., Rodrigues, M. G., «Benefitting from brutality? Profits of north-western Europe's slave trade at the eve of the industrial revolution», *Economic History Review* (2026), pp. 1–24. [DOI: 10.1111//ehr.70115](https://doi.org/10.1111/ehr.70115) 
 
 Camette, Hadrien, Daudin, Guillaume, Faubert, Violaine, Christine Rifflart, «Estimating the elasticity of consumer prices to the exchange rate: an accounting approach» *Journal of International Money and Finance*, vol. 137, October (2023), [DOI: 10.1016/j.jimonfin.2023.102913](https://doi.org/10.1016/j.jimonfin.2023.102913)
 
