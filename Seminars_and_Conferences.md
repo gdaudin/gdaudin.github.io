@@ -6,6 +6,16 @@ permalink: Seminars_and_Conferences
 
 # 2026
 
+
+Septembre
+[6th European Macrohistory Conference, Center for Advanced Studies: Finance and Inequality (CASFI), Universität Bonn ](https://www.casfi.uni-bonn.de/events/upcoming-events-1/6th-european-macrohistory-conference)
+Presentation « [Ties that trade: Trade blocs over two centuries (1833–2025)](https://paulgirard.github.io/ricardo_gph_analysis/bonn_2026/) »
+
+
+[Medialab Seminar, SciencesPo Paris, France](https://medialab.sciencespo.fr/actu/harmonizing-historical-trade-using-geopolitical-data-a-multilayer-network-approach-to-bilateral-flows-18301938/), 
+Presentation with Paul Girard and Béatrice Dedinger « [Harmonizing Historical Trade Using Geopolitical Data : A Multilayer Network Approach to Bilateral Flows, 1830–1938](https://paulgirard.github.io/ricardo_gph_analysis/medialab_2026/) ». [Video Recording](https://vimeo.com/1229943255?fl=ip&fe=ec&share=copy).
+
+
 April
 International Macroeconomics in Historical Perspective, 3rd edition, Banque de France
 Discutant: Vincent Bignon (Banque de France, AMSE & CEPR) « The Trafalgar Squeeze of Global Liquidity » (joint with Benoit Mojon and Miguel Ortiz Serrano)

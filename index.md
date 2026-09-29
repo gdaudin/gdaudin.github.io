@@ -21,7 +21,7 @@ Associated researcher - University of Basel (Institute for European Global Studi
 
 Postal Address: 
 Guillaume Daudin \
-Bureau P119 - LEDa-DIAL\
+Bureau B443 - LEDa-DIAL\
 Université Paris Dauphine-PSL\
 Place du Maréchal de Lattre de Tassigny\
 75775 Paris Cedex 16\
