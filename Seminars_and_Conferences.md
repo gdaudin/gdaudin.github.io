@@ -7,6 +7,10 @@ permalink: Seminars_and_Conferences
 # 2026
 
 
+Octobre
+[DIAL seminar, Université Paris Dauphine-PSL, France](https://dial.ird.fr/seminaires-dial/tous-les-seminaires-anterieurs/)
+Presentation: [« Trade that ties: Trade communities over two centuries (1833-2025) »](https://paulgirard.github.io/ricardo_gph_analysis/LEDa_2026/)
+
 Septembre
 [6th European Macrohistory Conference, Center for Advanced Studies: Finance and Inequality (CASFI), Universität Bonn ](https://www.casfi.uni-bonn.de/events/upcoming-events-1/6th-european-macrohistory-conference)
 Presentation: « [Ties that trade: Trade blocs over two centuries (1833–2025)](https://paulgirard.github.io/ricardo_gph_analysis/bonn_2026/) »
