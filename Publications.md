@@ -112,6 +112,8 @@ Avant-propos de Robert C. Allen, *Introduction à l’histoire économique mondi
 
 # Non-refereed journals  
 
+Rönnbäck, K., Daudin, G., deKok, G., Richardson, D., Rodrigues, M. G. «Le profit de la brutalité : bénéfices de la traite négrière transatlantique en Europe du Nord-Ouest à l'aube de la révolution industrielle  // Benefitting from brutality: Profits of Northwestern Europe's slave trade at the eve of the industrial revolution», *Dialogue*, n°81, October 2026 [en français](https://mcusercontent.com/3ee4b44fee78a7102803b3f19/files/6bd5bcb5-9c77-bef5-a782-ad1c11975be2/DIALogue81_FR.pdf) [in English](https://mcusercontent.com/3ee4b44fee78a7102803b3f19/files/6275e169-262a-0c9d-42ef-d1f0d34f4ab8/DIALogue81_EN.pdf)
+
 Guillaume Daudin «Nick Crafts Changed My Life», *Advantage, The Magazine of CAGE Research Centre*, Issue 16, Spring 2024 [pdf](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/uow_cage_mag_issue_16_low_single.pdf)
 
 Loïc Charles, Guillaume Daudin «[Et la France se spécialisa dans le luxe](https://www.lhistoire.fr/les-nouveaux-chantiers-de-lhistoire-%C3%A9conomique/et-la-france-se-sp%C3%A9cialisa-dans-le-luxe)», *L’Histoire*, n°493, Mars 2022
