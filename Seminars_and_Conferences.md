@@ -8,6 +8,9 @@ permalink: Seminars_and_Conferences
 
 
 Octobre
+[Geneva Trade and Development Workshop](https://www.gtdw.ch/), Department of Economics, Geneva Graduate Institute
+Presentation: « Trade that ties: Trade communities over two centuries (1833-2025) »
+
 [DIAL seminar, Université Paris Dauphine-PSL, France](https://dial.ird.fr/seminaires-dial/tous-les-seminaires-anterieurs/)
 Presentation: [« Trade that ties: Trade communities over two centuries (1833-2025) »](https://paulgirard.github.io/ricardo_gph_analysis/leda_2026/)
 
