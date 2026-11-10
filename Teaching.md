@@ -13,7 +13,7 @@ Readings in Development and International Economics (with colleagues)
 
 2018-now, Université Paris-Dauphine, M2, Master 111
 Lire, comprendre et commenter les travaux des autres : Commerce et développement dans une perspective historique (21h)
-With Elise Huillery, then Anne-Laure Delatte and Phlippe 
+With Elise Huillery, then Anne-Laure Delatte and Philippe De Vreyer 
 
 2018-now, Université Paris-Dauphine, L3, Économie Appliquée, 3e année  
 Economic Growth Theory  
